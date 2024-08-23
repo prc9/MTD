@@ -1,0 +1,3020 @@
+hsa-let-7f-2	kidney cancer
+hsa-let-7g	hepatocellular carcinoma (HCC)
+hsa-let-7g	lung cancer
+hsa-let-7g	non-small cell lung cancer (NSCLC)
+hsa-let-7g	ovarian cancer (OC)
+hsa-let-7g	colorectal cancer
+hsa-let-7g	head and neck squamous cell carcinoma (HNSCC)
+hsa-let-7g	hepatocellular carcinoma (HCC)
+hsa-let-7g	malignant melanoma
+hsa-let-7g	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7g	prostate cancer
+hsa-let-7g	prostate cancer
+hsa-let-7i	Alzheimer's disease
+hsa-let-7i	breast cancer
+hsa-let-7i	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-1	cardiac hypertrophy
+hsa-miR-1	cardiac hypertrophy
+hsa-miR-203	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-203	uterine leiomyoma (ULM)
+hsa-miR-204	acute myeloid leukemia (AML)
+hsa-miR-204	glioma
+hsa-miR-204	breast cancer
+hsa-miR-382	Duchenne muscular dystrophy (DMD)
+hsa-miR-382	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-382	miyoshi myopathy (MM)
+hsa-miR-204	Insulinoma
+hsa-let-7d	acute promyelocytic leukemia (APL)
+hsa-miR-133a	cardiomyopathy
+hsa-miR-21	lung cancer
+hsa-miR-16-1	acute promyelocytic leukemia (APL)
+hsa-miR-635	ovarian cancer (OC)
+hsa-miR-10a	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-184	acute myeloid leukemia (AML)
+hsa-miR-19a	hepatocellular carcinoma (HCC)
+hsa-miR-19a	stomach neoplasms
+hsa-miR-24	prostate cancer
+hsa-miR-302c	epithelial ovarian cancer (EOC)
+hsa-miR-302c	stomach neoplasms
+hsa-miR-30d	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-368	Duchenne muscular dystrophy (DMD)
+hsa-miR-150	lung cancer
+hsa-miR-125a	breast cancer
+hsa-miR-146a	lung cancer
+hsa-miR-146a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-146a	pancreatic cancer
+hsa-miR-146a	pancreatic cancer
+hsa-miR-146a	prostate cancer
+hsa-miR-146a	psoriasis
+hsa-miR-146b	breast cancer
+hsa-miR-146b	autism spectrum disorder (ASD)
+hsa-miR-146b	stomach neoplasms
+hsa-let-7d	lung cancer
+hsa-let-7d	ovarian cancer (OC)
+hsa-let-7d	breast cancer
+hsa-let-7d	epithelial ovarian cancer (EOC)
+hsa-let-7d	epithelial ovarian cancer (EOC)
+hsa-let-7d	hepatocellular carcinoma (HCC)
+hsa-let-7d	malignant melanoma
+hsa-let-7d	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7d	pancreatic cancer
+hsa-let-7d	prostate cancer
+hsa-let-7d*	cardiac hypertrophy
+hsa-let-7e	lung cancer
+hsa-let-7e	acute lymphoblastic leukemia (ALL)
+hsa-let-7e	acute myeloid leukemia (AML)
+hsa-let-7e	acute myeloid leukemia (AML)
+hsa-let-7e	diffuse large B-cell lymphoma (DLBCL)
+hsa-let-7e	head and neck squamous cell carcinoma (HNSCC)
+hsa-let-7e	hepatocellular carcinoma (HCC)
+hsa-let-7e	malignant melanoma
+hsa-let-7e	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7e	ovarian cancer (OC)
+hsa-let-7e	pituitary adenoma
+hsa-let-7e	psoriasis
+hsa-let-7f	lung cancer
+hsa-miR-210	glioblastoma multiforme (GBM)
+hsa-miR-125a	acute lymphoblastic leukemia (ALL)
+hsa-miR-125a	acute myeloid leukemia (AML)
+hsa-miR-125a	breast cancer
+hsa-miR-125a	chronic pancreatitis
+hsa-miR-125a	colorectal cancer
+hsa-miR-125a	epithelial ovarian cancer (EOC)
+hsa-miR-125a	hepatocellular carcinoma (HCC)
+hsa-miR-125a	lung cancer
+hsa-miR-125a	neuroblastoma (NB)
+hsa-miR-125a	pancreatic cancer
+hsa-miR-125a	prostate cancer
+hsa-miR-125a	serous ovarian cancer
+hsa-miR-125a	vascular disease
+hsa-miR-125b	anaplastic thyroid carcinoma (ATC)
+hsa-miR-125b	breast cancer
+hsa-miR-125b	breast cancer
+hsa-miR-125b	prostate cancer
+hsa-miR-125b	prostate cancer
+hsa-miR-125b	Alzheimer's disease
+hsa-miR-125b	cardiac hypertrophy
+hsa-miR-125b	Cerebellar neurodegeneration
+hsa-miR-125b	heart failure
+hsa-miR-135a	malignant melanoma
+hsa-miR-135b	colorectal cancer
+hsa-miR-135b	stomach neoplasms
+hsa-miR-135b	malignant melanoma
+hsa-miR-150	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-150	polycythemia vera (PV)
+hsa-miR-150	primary biliary cirrhosis (PBC)
+hsa-miR-150	uterine leiomyoma (ULM)
+hsa-miR-151	acute myeloid leukemia (AML)
+hsa-miR-151	cardiac hypertrophy
+hsa-miR-151	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-151	hepatocellular carcinoma (HCC)
+hsa-miR-151	nasopharyngeal carcinoma (NPC)
+hsa-miR-151	prostate cancer
+hsa-miR-151*	acute lymphoblastic leukemia (ALL)
+hsa-miR-151*	acute myeloid leukemia (AML)
+hsa-miR-152	asthma
+hsa-miR-152	breast cancer
+hsa-miR-152	breast cancer
+hsa-miR-152	epithelial ovarian cancer (EOC)
+hsa-miR-153	B-cell chronic lymphocytic leukemia
+hsa-miR-154	B-cell chronic lymphocytic leukemia
+hsa-miR-154	dermatomyositis (DM)
+hsa-miR-133a	tongue squamous cell carcinoma
+hsa-miR-133a	epithelial ovarian cancer (EOC)
+hsa-miR-133a	glioblastoma multiforme (GBM)
+hsa-miR-133a	primary biliary cirrhosis (PBC)
+hsa-miR-133a	retinitis pigmentosa (RP)
+hsa-miR-133a	vascular disease
+hsa-miR-133b	Parkinson's disease
+hsa-miR-133b	tongue squamous cell carcinoma
+hsa-miR-133b	colorectal cancer
+hsa-miR-133b	glioblastoma multiforme (GBM)
+hsa-miR-133b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-133b	primary biliary cirrhosis (PBC)
+hsa-miR-133b	psoriasis
+hsa-miR-133b	testicular germ cell tumor
+hsa-miR-134	acute promyelocytic leukemia (APL)
+hsa-miR-134	B-cell chronic lymphocytic leukemia
+hsa-miR-134	Duchenne muscular dystrophy (DMD)	
+hsa-miR-134	epithelial ovarian cancer (EOC)
+hsa-miR-134	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-134	nemaline myopathy (NM)
+hsa-miR-134	ovarian cancer (OC)
+hsa-miR-136	breast cancer
+hsa-miR-136	hepatocellular carcinoma (HCC)
+hsa-miR-21	miyoshi myopathy (MM)
+hsa-miR-21	ovarian cancer (OC)
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	papillary thyroid carcinoma (PTC)
+hsa-miR-21	polymyositis (PM)
+hsa-miR-21	prostate cancer
+hsa-miR-21	prostate cancer
+hsa-miR-21	psoriasis
+hsa-miR-21	glioma
+hsa-miR-21	serous ovarian cancer
+hsa-miR-21	uterine leiomyoma (ULM)
+hsa-miR-21	uterine leiomyoma (ULM)
+hsa-miR-210	breast cancer
+hsa-miR-210	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-210	acute lymphoblastic leukemia (ALL)
+hsa-miR-210	acute myeloid leukemia (AML)
+hsa-miR-210	Alzheimer's disease
+hsa-miR-210	breast cancer
+hsa-miR-210	dermatomyositis (DM)
+hsa-miR-210	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-210	Duchenne muscular dystrophy (DMD)	
+hsa-miR-210	follicular lymphoma (FL)
+hsa-miR-210	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-9	Hodgkin's lymphoma
+hsa-miR-31	malignant melanoma
+hsa-miR-31	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-368	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-368	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-368	miyoshi myopathy (MM)
+hsa-miR-368	nemaline myopathy (NM)
+hsa-miR-368	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-369-5p	dermatomyositis (DM)
+hsa-miR-369-5p	Duchenne muscular dystrophy (DMD)
+hsa-miR-369-5p	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-369-5p	nemaline myopathy (NM)
+hsa-miR-370	cholangiocarcinoma
+hsa-miR-370	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-370	prostate cancer
+hsa-miR-370	stomach neoplasms
+hsa-miR-371	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-371	testicular germ cell tumor
+hsa-miR-372	non-small cell lung cancer (NSCLC)
+hsa-miR-372	testicular germ cell tumor
+hsa-miR-372	acute myeloid leukemia (AML)
+hsa-miR-372	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-372	testicular germ cell tumor
+hsa-miR-372	stomach neoplasms
+hsa-miR-373	breast cancer
+hsa-miR-373	testicular germ cell tumor
+hsa-miR-373	stomach neoplasms
+hsa-miR-182	prostate cancer
+hsa-miR-182*	prostate cancer
+hsa-miR-183	lung cancer
+hsa-miR-183	prostate cancer
+hsa-miR-184	prostate cancer
+hsa-miR-206	rhabdomyosarcoma
+hsa-miR-206	rhabdomyosarcoma
+hsa-miR-208	myocardial injury
+hsa-miR-20a	kidney cancer
+hsa-miR-20a	glioma
+hsa-miR-20a	lung cancer
+hsa-miR-20b	kidney cancer
+hsa-miR-20b	glioma
+hsa-miR-21	kidney cancer
+hsa-miR-21	myocardial infarction
+hsa-miR-21	hepatocellular carcinoma (HCC)
+hsa-miR-21	lung cancer
+hsa-miR-21	cervical cancer
+hsa-miR-21	cholesteatoma
+hsa-miR-21	lung cancer
+hsa-miR-210	pancreatic cancer
+hsa-miR-210	lung cancer
+hsa-miR-210	kidney cancer
+hsa-miR-214	kidney cancer
+hsa-miR-218	lung cancer
+hsa-miR-22	lung cancer
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-221	prostate cancer
+hsa-miR-221	stomach neoplasms
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-222	pancreatic cancer
+hsa-miR-222	hepatocellular carcinoma (HCC)
+hsa-miR-222	prostate cancer
+hsa-miR-222	stomach neoplasms
+hsa-miR-223	chronic lymphocytic leukemia (CLL)
+hsa-miR-223	stomach neoplasms
+hsa-miR-23a	cardiac hypertrophy
+hsa-miR-26a	kidney cancer
+hsa-miR-27a	breast cancer
+hsa-miR-27a	kidney cancer
+hsa-miR-29a	kidney cancer
+hsa-miR-29a	neuroblastoma (NB)
+hsa-miR-29b	neuroblastoma (NB)
+hsa-miR-29b	kidney cancer
+hsa-miR-34a	pancreatic cancer
+hsa-miR-34b	pancreatic cancer
+hsa-miR-34c	pancreatic cancer
+hsa-miR-375	prostate cancer
+hsa-miR-375	stomach neoplasms
+hsa-miR-378	kidney cancer
+hsa-miR-423	lung cancer
+hsa-miR-424	kidney cancer
+hsa-miR-424	chronic lymphocytic leukemia (CLL)
+hsa-miR-425-5p	lung cancer
+hsa-miR-451	lung cancer
+hsa-miR-489	kidney cancer
+hsa-miR-497	lung cancer
+hsa-miR-511	lung cancer
+hsa-miR-532-5p	kidney cancer
+hsa-miR-599	multiple sclerosis
+hsa-miR-661	breast cancer
+hsa-miR-661	stomach neoplasms
+hsa-miR-7	Parkinson's disease
+hsa-miR-7	lung cancer
+hsa-miR-720	kidney cancer
+hsa-miR-107	non-small cell lung cancer (NSCLC)
+hsa-miR-107	chronic lymphocytic leukemia (CLL)
+hsa-miR-107	schizophrenia
+hsa-miR-122	hepatocellular carcinoma (HCC)
+hsa-miR-122	hepatocellular carcinoma (HCC)
+hsa-miR-122	kidney cancer
+hsa-miR-125a	type 2 diabetes
+hsa-miR-125a-5p	lung cancer
+hsa-miR-125b	prostate cancer
+hsa-miR-122a	gastric cancer (stomach cancer)
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-126	kidney cancer
+hsa-miR-126	lung cancer
+hsa-miR-126*	lung cancer
+hsa-miR-128	neuroblastoma
+hsa-miR-130a	lung cancer
+hsa-miR-133b	lung cancer
+hsa-miR-135a	Hodgkin's lymphoma
+hsa-miR-139	lung cancer
+hsa-miR-141	lung cancer
+hsa-miR-199a	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-199a*	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-214	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-22	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-155	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-196a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-122	hepatocellular carcinoma (HCC)
+hsa-miR-122	stomach neoplasms
+hsa-miR-208a	cardiac hypertrophy
+hsa-miR-200c	lung cancer
+hsa-miR-429	lung cancer
+hsa-miR-429	stomach neoplasms
+hsa-miR-221	bladder cancer
+hsa-miR-21	pancreatic cancer
+hsa-miR-221	pancreatic cancer
+hsa-miR-140	colorectal cancer
+hsa-miR-140	osteosarcoma
+hsa-miR-140	stomach neoplasms
+hsa-miR-21	colorectal cancer
+hsa-miR-21	prostate cancer
+hsa-miR-125b	breast cancer
+hsa-miR-16	prostate cancer
+hsa-miR-100	nasopharyngeal carcinoma (NPC)
+hsa-miR-10a	pancreatic cancer
+hsa-miR-1	lung cancer
+hsa-miR-143	lung cancer
+hsa-miR-130a	lung cancer
+hsa-miR-146b	lung cancer
+hsa-miR-21	lung cancer
+hsa-miR-31	lung cancer
+hsa-miR-377	lung cancer
+hsa-miR-141	lung cancer
+hsa-miR-141	stomach neoplasms
+hsa-miR-200a	lung cancer
+hsa-miR-200a	stomach neoplasms
+hsa-miR-200b	lung cancer
+hsa-miR-200b	stomach neoplasms
+hsa-miR-221	acute promyelocytic leukemia (APL)
+hsa-miR-128b	acute promyelocytic leukemia (APL)
+hsa-miR-127	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-376a	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-424	Intrahepatic cholangiocarcinoma (ICC)
+hsa-miR-17-3p	prostate cancer
+hsa-miR-34a	glioblastoma
+hsa-miR-34a	glioma
+hsa-miR-34a	medulloblastoma
+hsa-miR-1	myocardial infarction
+hsa-miR-130b	glioma
+hsa-miR-130b	stomach neoplasms
+hsa-miR-140	glioma
+hsa-miR-15a	glioma
+hsa-miR-16	glioma
+hsa-miR-184	glioma
+hsa-miR-19a	glioma
+hsa-miR-20a	glioma
+hsa-miR-21	glioma
+hsa-miR-210	glioma
+hsa-miR-25	glioma
+hsa-miR-28	glioma
+hsa-miR-328	glioma
+hsa-miR-9	glioma
+hsa-miR-17	glioma
+hsa-miR-200a	Hodgkin's lymphoma
+hsa-miR-520a	Hodgkin's lymphoma
+hsa-miR-520a	stomach neoplasms
+hsa-miR-614	Hodgkin's lymphoma
+hsa-miR-140	Hodgkin's lymphoma
+hsa-miR-155	Hodgkin's lymphoma
+hsa-miR-16	Hodgkin's lymphoma
+hsa-miR-186	Hodgkin's lymphoma
+hsa-miR-18a	Hodgkin's lymphoma
+hsa-miR-196a	Hodgkin's lymphoma
+hsa-miR-20a	Hodgkin's lymphoma
+hsa-miR-21	Hodgkin's lymphoma
+hsa-miR-30a-5p	Hodgkin's lymphoma
+hsa-miR-181b	Oral Carcinoma
+hsa-miR-21	Oral Carcinoma
+hsa-miR-345	Oral Carcinoma
+hsa-miR-30b	Hodgkin's lymphoma
+hsa-miR-374	Hodgkin's lymphoma
+hsa-miR-9	Hodgkin's lymphoma
+hsa-miR-10b	non-alcoholic fatty liver disease (NAFLD)
+hsa-let-7c	non-alcoholic fatty liver disease (NAFLD)
+hsa-let-7d	non-alcoholic fatty liver disease (NAFLD)
+hsa-let-7e		non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-103	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-107	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-130a	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-140	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-183	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-200c	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-200c	stomach neoplasms
+hsa-miR-203	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-375	esophageal cancer
+hsa-miR-192	esophageal cancer
+hsa-miR-194	esophageal cancer
+hsa-miR-21	esophageal cancer
+hsa-miR-21	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-26a-1	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-27b	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-29b	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-30a	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-122a	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-126	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-132	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-132	stomach neoplasms
+hsa-miR-151	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-154	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-16-1	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-17	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-187	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-187	stomach neoplasms
+hsa-miR-22	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-29c	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-210	head and neck cancer
+hsa-let-7a		laryngeal carcinoma
+hsa-let-7a	stomach neoplasms
+hsa-miR-203	esophageal cancer	
+hsa-miR-30c	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-30d	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-31	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-33	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-34a	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-95	non-alcoholic fatty liver disease (NAFLD)
+hsa-miR-95	stomach neoplasms
+hsa-miR-223	esophageal cancer	
+hsa-miR-22	acute lymphoblastic leukemia (ALL)
+hsa-miR-223	essential thrombocythemia (ET)
+hsa-miR-146b	primary myelofibrosis
+hsa-miR-223	primary myelofibrosis
+hsa-miR-26a	hepatocellular carcinoma (HCC)
+hsa-miR-26b	hepatocellular carcinoma (HCC)
+hsa-miR-29a	lung cancer
+hsa-let-7a		lung cancer
+hsa-miR-17	Polycystic Kidney Disease
+hsa-miR-150	sepsis
+hsa-miR-106b	colorectal cancer
+hsa-miR-130b	colorectal cancer
+hsa-miR-181b	colorectal cancer
+hsa-miR-20b	multiple sclerosis
+hsa-miR-1275	multiple sclerosis
+hsa-miR-142-3p	multiple sclerosis
+hsa-miR-145	multiple sclerosis
+hsa-miR-186	multiple sclerosis
+hsa-miR-223	multiple sclerosis
+hsa-miR-422a	multiple sclerosis
+hsa-miR-491-5p	multiple sclerosis
+hsa-miR-584	multiple sclerosis
+hsa-miR-664	multiple sclerosis
+hsa-miR-181a	breast cancer
+hsa-miR-26a	breast cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-141	colorectal cancer
+hsa-miR-34a	malignant melanoma
+hsa-miR-15	malignant melanoma
+hsa-miR-210	malignant melanoma
+hsa-miR--196a-2	gastric cancer (stomach cancer)
+hsa-miR-326	multiple sclerosis
+hsa-miR-143	colorectal cancer
+hsa-miR-200b	breast cancer
+hsa-miR-200c	breast cancer
+hsa-miR-1	colorectal cancer
+hsa-miR-10b	colorectal cancer
+hsa-miR-125a	colorectal cancer
+hsa-miR-133a	colorectal cancer
+hsa-miR-139	colorectal cancer
+hsa-miR-143	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-195	colorectal cancer
+hsa-miR-30a-3p	colorectal cancer
+hsa-miR-30a-5p	colorectal cancer
+hsa-miR-30c	colorectal cancer
+hsa-miR-378*	colorectal cancer
+hsa-miR-422a	colorectal cancer
+hsa-miR-422b	colorectal cancer
+hsa-miR-497	colorectal cancer
+hsa-miR-203	colorectal cancer
+hsa-miR-34a	colorectal cancer
+hsa-miR-95	colorectal cancer
+hsa-miR-106a	colorectal cancer
+hsa-miR-106a	glioma
+hsa-miR-19a	colorectal cancer
+hsa-miR-19b	colorectal cancer
+hsa-miR-20a	colorectal cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-224	colorectal cancer
+hsa-miR-224	glioma
+hsa-miR-224	stomach neoplasms
+hsa-miR-25	colorectal cancer
+hsa-miR-29a	colorectal cancer
+hsa-miR-96	colorectal cancer
+hsa-miR-17-5p	colorectal cancer
+hsa-miR-182	colorectal cancer
+hsa-miR-183	colorectal cancer
+hsa-miR-18a	colorectal cancer
+hsa-miR-18a	stomach neoplasms
+hsa-miR-29b	colorectal cancer
+hsa-miR-93	colorectal cancer
+hsa-miR-31	colorectal cancer
+hsa-miR-124	hepatocellular carcinoma (HCC)
+hsa-miR-203	hepatocellular carcinoma (HCC)
+hsa-miR-126	asthma
+hsa-miR-21	bladder cancer
+hsa-miR-100	bladder cancer
+hsa-miR-100	stomach neoplasms
+hsa-miR-99a	bladder cancer
+hsa-miR-29b	acute myelogeneous leukemia (AML)
+hsa-let-7b	multiple myeloma (MM)
+hsa-miR-140-3p	multiple myeloma (MM)
+hsa-let-7e		multiple myeloma (MM)
+hsa-miR-125a-5p	multiple myeloma (MM)
+hsa-miR-99b	multiple myeloma (MM)
+hsa-miR-15a	papillary thyroid carcinoma (PTC)
+hsa-miR-16	papillary thyroid carcinoma (PTC)
+hsa-miR-199b	papillary thyroid carcinoma (PTC)
+hsa-miR-26a	papillary thyroid carcinoma (PTC)
+hsa-miR-29	papillary thyroid carcinoma (PTC)
+hsa-miR-34	papillary thyroid carcinoma (PTC)
+hsa-let-7b	papillary thyroid carcinoma (PTC)
+hsa-miR-106	papillary thyroid carcinoma (PTC)
+hsa-miR-193	papillary thyroid carcinoma (PTC)
+hsa-miR-200a	papillary thyroid carcinoma (PTC)
+hsa-miR-222	papillary thyroid carcinoma (PTC)
+hsa-miR-141	ovarian cancer (OC)
+hsa-miR-200a	ovarian cancer (OC)
+hsa-miR-200b	ovarian cancer (OC)
+hsa-miR-200c	ovarian cancer (OC)
+hsa-miR-429	ovarian cancer (OC)
+hsa-miR-214	cervical cancer
+hsa-miR-500	hepatocellular carcinoma (HCC)
+hsa-miR-31a	breast cancer
+hsa-miR-125a	breast cancer
+miR-BART21	nasopharyngeal carcinoma (NPC)
+miR-BART22	nasopharyngeal carcinoma (NPC)
+hsa-miR-125a	ovarian cancer (OC)
+hsa-miR-16-1	chronic lymphocytic leukemia (CLL)
+hsa-miR-16-1	chronic lymphocytic leukemia (CLL)
+hsa-miR-16-1	mantle cell lymphoma (MCL)
+hsa-miR-16-1	pituitary adenoma
+hsa-miR-16-1	pancreatic cancer
+hsa-miR-16-2	chronic lymphocytic leukemia (CLL)
+hsa-miR-16-2	stomach neoplasms
+hsa-miR-164	pituitary adenoma
+hsa-miR-170	breast cancer
+hsa-miR-172a-2	hepatocellular carcinoma (HCC)
+hsa-miR-17-3p	lung cancer
+hsa-miR-17-3p	anaplastic thyroid carcinoma (ATC)
+hsa-miR-17-3p	lung cancer
+hsa-miR-17-3p	MYC-rearranged lymphoma
+hsa-miR-17-3p	hepatocellular carcinoma (HCC)
+hsa-miR-17-3p	malignant lymphoma
+hsa-miR-409-3p	dermatomyositis (DM)
+hsa-miR-409-3p	Duchenne muscular dystrophy (DMD)
+hsa-miR-409-3p	miyoshi myopathy (MM)
+hsa-miR-409-3p	nemaline myopathy (NM)
+hsa-miR-419	epithelial ovarian cancer (EOC)
+hsa-miR-422a	ovarian cancer (OC)
+hsa-miR-422b	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-423	Duchenne muscular dystrophy (DMD)
+hsa-miR-423	nemaline myopathy (NM)
+hsa-miR-423	primary biliary cirrhosis (PBC)
+hsa-miR-637	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-637	ovarian cancer (OC)
+hsa-miR-642	uterine leiomyoma (ULM)
+hsa-miR-648	ovarian cancer (OC)
+hsa-miR-652	autism spectrum disorder (ASD)
+hsa-miR-652	uveal melanoma
+hsa-miR-657	ovarian cancer (OC)
+hsa-miR-662	ovarian cancer (OC)
+hsa-miR-663	breast cancer
+hsa-miR-663	breast cancer
+hsa-miR-663	ovarian cancer (OC)
+hsa-miR-7	glioblastoma
+hsa-miR-7	autism spectrum disorder (ASD)
+hsa-miR-7	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-7	schizophrenia
+hsa-miR-7-1	pituitary adenoma
+hsa-miR-7-1	stomach neoplasms
+hsa-miR-7-2	kidney cancer
+hsa-miR-7-2	stomach neoplasms
+hsa-miR-7-3	chronic pancreatitis
+hsa-miR-7-3	colorectal cancer
+hsa-miR-7-3	stomach neoplasms
+hsa-miR-7-3	pituitary adenoma
+hsa-miR-802	Down syndrome (DS)
+hsa-miR-9	metabolic disease
+hsa-miR-9	recurrent ovarian cancer
+hsa-miR-9	Alzheimer's disease
+hsa-miR-10a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-10a	pancreatic cancer
+hsa-miR-10a	prostate cancer
+hsa-miR-10a	psoriasis
+hsa-miR-10a	uterine leiomyoma (ULM)
+hsa-miR-10b	breast cancer
+hsa-miR-10b	B-cell chronic lymphocytic leukemia
+hsa-miR-10b	breast cancer
+hsa-miR-10b	cardiac hypertrophy
+hsa-miR-10b	chronic pancreatitis
+hsa-miR-10b	glioblastoma
+hsa-miR-10b	ovarian cancer (OC)
+hsa-miR-10b	pancreatic cancer
+hsa-miR-10b	prostate cancer
+hsa-miR-10b	serous ovarian cancer
+hsa-miR-1-2	hepatocellular carcinoma (HCC)
+hsa-miR-1-2	cardiomyopathy
+hsa-miR-1-2	stomach neoplasms
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-122a	HCV infection
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-122a	metabolic disease
+hsa-miR-122a	breast cancer
+hsa-miR-122a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-184	epithelial ovarian cancer (EOC)
+hsa-miR-184	malignant melanoma
+hsa-miR-184	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-184	prostate cancer
+hsa-miR-185	hepatocellular carcinoma (HCC)
+hsa-miR-185	bladder cancer
+hsa-miR-185	cardiac hypertrophy
+hsa-miR-185	cardiac hypertrophy
+hsa-miR-185	glioblastoma multiforme (GBM)
+hsa-miR-185	kidney cancer
+hsa-miR-185	malignant melanoma
+hsa-miR-185	stomach neoplasms
+hsa-miR-130a	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-130a	miyoshi myopathy (MM)
+hsa-miR-130a	nemaline myopathy (NM)
+hsa-miR-130a	polymyositis (PM)
+hsa-miR-130a-1	hepatocellular carcinoma (HCC)
+hsa-miR-130b	acute lymphoblastic leukemia (ALL)
+hsa-miR-130b	acute myeloid leukemia (AML)
+hsa-miR-130b	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-130b-1	hepatocellular carcinoma (HCC)
+hsa-miR-132	Huntington's disease (HD)
+hsa-miR-132	autism spectrum disorder (ASD)
+hsa-miR-132	B-cell chronic lymphocytic leukemia
+hsa-miR-139	uterine leiomyoma (ULM)
+hsa-miR-132	colorectal cancer
+hsa-miR-302c	malignant melanoma
+hsa-miR-302c*	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-302c*	prostate cancer
+hsa-miR-302d	acute myeloid leukemia (AML)
+hsa-miR-302d	stomach neoplasms
+hsa-miR-302d	malignant melanoma
+hsa-miR-302d	testicular germ cell tumor
+hsa-miR-30a	hepatocellular carcinoma (HCC)
+hsa-miR-30a	uterine leiomyoma (ULM)
+hsa-miR-30a-3p	acute myeloid leukemia (AML)
+hsa-miR-30a-3p	cardiac hypertrophy
+hsa-miR-30a-3p	colorectal cancer
+hsa-miR-30a-3p	colorectal cancer
+hsa-miR-30a-3p	dermatomyositis (DM)
+hsa-miR-30a-3p	Duchenne muscular dystrophy (DMD)	
+hsa-miR-30a-3p	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-30a-3p	miyoshi myopathy (MM)
+hsa-miR-30a-3p	nemaline myopathy (NM)
+hsa-miR-30a-3p	polymyositis (PM)
+hsa-miR-30a-5p	anaplastic thyroid carcinoma (ATC)
+hsa-miR-30a-5p	cardiac hypertrophy
+hsa-miR-30a-5p	Duchenne muscular dystrophy (DMD)	
+hsa-miR-30a-5p	lung cancer
+hsa-miR-200b	cancer
+hsa-miR-30a-5p	colorectal cancer
+hsa-miR-30d	primary biliary cirrhosis (PBC)
+hsa-miR-30d	schizophrenia
+hsa-miR-30e	hepatocellular carcinoma (HCC)
+hsa-miR-30e	cardiac hypertrophy
+hsa-miR-30e	cardiac hypertrophy
+hsa-miR-30e	schizophrenia
+hsa-miR-30e*	cardiac hypertrophy
+hsa-miR-30e-5p	Duchenne muscular dystrophy (DMD)	
+hsa-miR-30e-5p	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-30e-5p	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-30e-5p	ovarian cancer (OC)
+hsa-miR-30e-5p	psoriasis
+hsa-miR-31	cardiac hypertrophy
+hsa-miR-31	colorectal cancer
+hsa-miR-31	colorectal cancer
+hsa-miR-31	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-31	hepatocellular carcinoma (HCC)
+hsa-miR-31	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-31	psoriasis
+hsa-miR-32	PFV-1 infection
+hsa-miR-32	colorectal cancer
+hsa-miR-32	stomach neoplasms
+hsa-miR-19a	anaplastic thyroid carcinoma (ATC)
+hsa-miR-19a	Cowden Syndrome
+hsa-miR-19a	lung cancer
+hsa-miR-19a	B-cell chronic lymphocytic leukemia
+hsa-miR-19a	colorectal cancer
+hsa-miR-19a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-19a	malignant lymphoma
+hsa-miR-19a	malignant melanoma
+hsa-miR-19b	malignant lymphoma
+hsa-miR-19b	prostate cancer
+hsa-miR-19b-2	T-cell leukemia
+hsa-miR-200a	serous ovarian cancer
+hsa-miR-200a	breast cancer
+hsa-miR-200a	cancer
+hsa-miR-200a	epithelial ovarian cancer (EOC)
+hsa-miR-200a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-200a	hepatocellular carcinoma (HCC)
+hsa-miR-200a	malignant melanoma
+hsa-miR-200a	ovarian cancer (OC)
+hsa-miR-200a	psoriasis
+hsa-miR-200b	serous ovarian cancer
+hsa-miR-200b	breast cancer
+hsa-miR-200b	cholangiocarcinoma
+hsa-miR-24	schizophrenia
+hsa-miR-24-1	chronic lymphocytic leukemia (CLL)
+hsa-miR-24-1	B-cell chronic lymphocytic leukemia
+hsa-miR-24-1	colorectal cancer
+hsa-miR-24-1	gastric cancer (stomach cancer)
+hsa-miR-24-1	glioblastoma
+hsa-miR-24-1	pancreatic cancer
+hsa-miR-24-1	pancreatic cancer
+hsa-miR-24-1	papillary thyroid carcinoma (PTC)
+hsa-miR-24-1	pituitary adenoma
+hsa-miR-24-1	stomach neoplasms
+hsa-miR-24-2	hepatocellular carcinoma (HCC)
+hsa-miR-24-2	colorectal cancer
+hsa-miR-24-2	gastric cancer (stomach cancer)
+hsa-miR-24-2	glioblastoma
+hsa-miR-24-2	lung cancer
+hsa-miR-24-2	pancreatic cancer
+hsa-miR-24-2	pancreatic cancer
+hsa-miR-24-2	papillary thyroid carcinoma (PTC)
+hsa-miR-24-2	stomach neoplasms
+hsa-miR-25	colorectal cancer
+hsa-miR-25	gastric cancer (stomach cancer)
+hsa-miR-25	glioblastoma
+hsa-miR-25	pancreatic cancer
+hsa-miR-25	prostate cancer
+hsa-miR-25	stomach neoplasms
+hsa-miR-26a	anaplastic thyroid carcinoma (ATC)
+hsa-miR-26a	acute lymphoblastic leukemia (ALL)
+hsa-miR-204	malignant melanoma
+hsa-miR-206	breast cancer
+hsa-miR-206	stomach neoplasms
+hsa-let-7a	malignant melanoma
+hsa-miR-136	pituitary adenoma
+hsa-miR-210	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-424	acute lymphoblastic leukemia (ALL)
+hsa-miR-9	Alzheimer's disease
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-140	autism spectrum disorder (ASD)
+hsa-miR-200b	epithelial ovarian cancer (EOC)
+hsa-miR-26a	acute myeloid leukemia (AML)
+hsa-miR-30a-5p	ovarian cancer (OC)
+hsa-miR-32	lung cancer
+hsa-miR-373	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-154	Duchenne muscular dystrophy (DMD)
+hsa-miR-125b	malignant melanoma
+hsa-miR-146b	Becker muscular dystrophy (BMD)
+hsa-miR-192-2	hepatocellular carcinoma (HCC)
+hsa-miR-196b	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-382	nemaline myopathy (NM)
+hsa-miR-324-5p	medulloblastoma
+hsa-miR-23a	lupus nephritis
+hsa-let-7b	neurodegeneration
+hsa-miR-30d	chronic lymphocytic leukemia (CLL)
+hsa-miR-155	breast cancer
+hsa-miR-210	Acute Promyelocytic Leukemia (APL)
+hsa-miR-200b	hepatocellular carcinoma (HCC)
+hsa-miR-144	thalassemia
+hsa-miR-21	Hepatocellular carcinoma (HCC)
+hsa-miR-142-3p	endometriosis
+hsa-miR-19a	medulloblastoma
+hsa-miR-223	chronic lymphocytic leukemia (CLL)
+hsa-miR-9*	Huntington's disease (HD)
+hsa-miR-17-5p	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-222	prostate cancer
+hsa-miR-19a	medulloblastoma
+hsa-miR-10b	glioma
+hsa-miR-10b	stomach neoplasms
+hsa-miR-133a	bladder cancer
+hsa-miR-152	hepatocellular carcinoma (HCC)
+hsa-miR-199a	hepatocellular carcinoma (HCC)
+hsa-miR-21	laryngeal carcinoma
+hsa-miR-21	renal clear cell carcinoma
+hsa-miR-21	non-small cell lung cancer (NSCLC)
+hsa-miR-21	bladder cancer
+hsa-miR-30a-5p	prostate cancer
+hsa-miR-30a-5p	schizophrenia
+hsa-miR-30b	cardiac hypertrophy
+hsa-miR-30b	Duchenne muscular dystrophy (DMD)
+hsa-miR-30b	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-30b	malignant melanoma
+hsa-miR-30b	nemaline myopathy (NM)
+hsa-miR-30b	prostate cancer
+hsa-miR-30b	schizophrenia
+hsa-miR-30b	stomach neoplasms
+hsa-miR-30c	cardiac hypertrophy
+hsa-miR-30c	Cerebellar neurodegeneration
+hsa-miR-30c	colorectal cancer
+hsa-miR-30c	colorectal cancer
+hsa-miR-30c	Duchenne muscular dystrophy (DMD)
+hsa-miR-30c	miyoshi myopathy (MM)
+hsa-miR-30c	pancreatic cancer
+hsa-miR-30c	prostate cancer
+hsa-miR-30c	prostate cancer
+hsa-miR-30c	prostate cancer
+hsa-miR-30c	psoriasis
+hsa-miR-30c-1	hepatocellular carcinoma (HCC)
+hsa-miR-30c-1	stomach neoplasms
+hsa-miR-30d	acute myeloid leukemia (AML)
+hsa-miR-30d	anaplastic thyroid carcinoma (ATC)
+hsa-miR-30d	cardiac hypertrophy
+hsa-miR-30d	Duchenne muscular dystrophy (DMD)
+hsa-miR-101	glioblastoma multiforme (GBM)
+hsa-miR-155	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-155	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-15a	hepatocellular carcinoma (HCC)
+hsa-miR-16	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-16	hepatocellular carcinoma (HCC)
+hsa-miR-17-5p	pulmonary hypertension
+hsa-miR-17-5p	hepatocellular carcinoma (HCC)
+hsa-miR-18	hepatocellular carcinoma (HCC)
+hsa-miR-182	lung cancer
+hsa-miR-183	lung cancer
+hsa-miR-184	adrenocortical carcinoma
+hsa-miR-185	hepatocellular carcinoma (HCC)
+hsa-miR-18a*	colorectal cancer
+hsa-miR-18a*	squamous carcinoma
+hsa-miR-194	hepatocellular carcinoma (HCC)
+hsa-miR-195	hepatocellular carcinoma (HCC)
+hsa-miR-195	bladder cancer
+hsa-miR-195	hepatocellular carcinoma (HCC)
+hsa-miR-195*	Malignant mesothelioma (MM)
+hsa-miR-373	testicular germ cell tumor
+hsa-miR-373*	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-373*	ovarian cancer (OC)
+hsa-miR-373*	prostate cancer
+hsa-miR-374	acute myeloid leukemia (AML)
+hsa-miR-374	epithelial ovarian cancer (EOC)
+hsa-miR-374	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-374	hepatocellular carcinoma (HCC)
+hsa-miR-374	malignant melanoma
+hsa-miR-374	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-375	pancreatic cancer
+hsa-miR-375	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-376a	epithelial ovarian cancer (EOC)
+hsa-miR-376a	Duchenne muscular dystrophy (DMD)
+hsa-miR-376a	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-376a	miyoshi myopathy (MM)
+hsa-miR-376a	nemaline myopathy (NM)
+hsa-miR-376a	pancreatic cancer
+hsa-miR-376b	epithelial ovarian cancer (EOC)
+hsa-miR-376b	uterine leiomyoma (ULM)
+hsa-miR-377	epithelial ovarian cancer (EOC)
+hsa-miR-377	uterine leiomyoma (ULM)
+hsa-miR-378	cardiac hypertrophy
+hsa-miR-154	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-154	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-154	malignant melanoma
+hsa-miR-154	miyoshi myopathy (MM)
+hsa-miR-154	nemaline myopathy (NM)
+hsa-miR-154	polymyositis (PM)
+hsa-miR-154*	glioblastoma multiforme (GBM)
+hsa-miR-155	chronic lymphocytic leukemia (CLL)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	lung cancer
+hsa-miR-155	acute lymphoblastic leukemia (ALL)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	myeloproliferative disorder
+hsa-miR-222	Duchenne muscular dystrophy (DMD)
+hsa-miR-222	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-222	glioblastoma
+hsa-miR-222	hepatocellular carcinoma (HCC)
+hsa-miR-222	hepatocellular carcinoma (HCC)
+hsa-miR-1	coronary artery disease
+hsa-miR-1	hepatocellular carcinoma (HCC)
+hsa-miR-1	Cerebellar neurodegeneration
+hsa-miR-1	retinitis pigmentosa (RP)
+hsa-miR-192-2	pituitary adenoma
+hsa-miR-192-3	pituitary adenoma
+hsa-miR-193a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-193b	autism spectrum disorder (ASD)
+hsa-miR-193b	Duchenne muscular dystrophy (DMD)
+hsa-miR-193b	uveal melanoma
+hsa-miR-193b	stomach neoplasms
+hsa-miR-194	hepatocellular carcinoma (HCC)
+hsa-miR-194	cardiac hypertrophy
+hsa-miR-194	chronic pancreatitis
+hsa-miR-195	chronic lymphocytic leukemia (CLL)
+hsa-miR-195	cardiac hypertrophy
+hsa-miR-195	acute myeloid leukemia (AML)
+hsa-miR-195	cardiac hypertrophy
+hsa-miR-195	chronic pancreatitis
+hsa-miR-195	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-195	heart failure
+hsa-miR-195	hepatocellular carcinoma (HCC)
+hsa-miR-195	hepatocellular carcinoma (HCC)
+hsa-miR-195	ovarian cancer (OC)
+hsa-miR-195	prostate cancer
+hsa-miR-195	schizophrenia
+hsa-miR-195	stomach neoplasms
+hsa-miR-196a	breast cancer
+hsa-miR-196a	stomach neoplasms
+hsa-miR-196a-2	B-cell chronic lymphocytic leukemia
+hsa-miR-196a-2	stomach neoplasms
+hsa-miR-20a	pulmonary hypertension
+hsa-miR-20a	stomach neoplasms
+hsa-miR-210	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-218	prostate cancer
+hsa-miR-200a	meningioma
+hsa-miR-200c	kidney cancer
+hsa-miR-200c	breast cancer
+hsa-miR-203	pancreatic cancer
+hsa-miR-204	lung cancer
+hsa-miR-205	prostate cancer
+hsa-miR-29c	kidney cancer
+hsa-miR-29c	chronic lymphocytic leukemia (CLL)
+hsa-miR-29c	neuroblastoma (NB)
+hsa-miR-30a-3p	lung cancer
+hsa-miR-30e-3p	lung cancer
+hsa-miR-30e-5p	lung cancer
+hsa-miR-31	prostate cancer
+hsa-miR-324-3p	lung cancer
+hsa-miR-324-5p	lung cancer
+hsa-miR-330	prostate cance
+hsa-miR-335	lung cancer
+hsa-miR-338	lung cancer
+hsa-miR-339	lung cancer
+hsa-miR-340	kidney cancer
+hsa-miR-342-3p	kidney cancer
+hsa-miR-342-3p	prion disease
+hsa-miR-345	lung cancer
+hsa-miR-34a	Alzheimer's disease
+hsa-miR-221	coronary artery disease
+hsa-miR-221	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-222	tongue squamous cell carcinoma
+hsa-miR-222	coronary artery disease
+hsa-miR-222	hepatocellular carcinoma (HCC)
+hsa-miR-222 	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-224	hepatocellular carcinoma (HCC)
+hsa-miR-23b	hepatocellular carcinoma (HCC)
+hsa-miR-24	hepatocellular carcinoma (HCC)
+hsa-miR-25	hepatocellular carcinoma (HCC)
+hsa-miR-25	hepatocellular carcinoma (HCC)
+hsa-miR-26a	hepatocellular carcinoma (HCC)
+hsa-miR-26a	Oral Squamous Cell Carcinoma (OSCC)	
+hsa-miR-26a	bladder cancer
+hsa-miR-26a	glioma
+hsa-miR-27a	hepatocellular carcinoma (HCC)
+hsa-miR-29a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-29c	bladder cancer
+hsa-miR-30-3p	bladder cancer
+hsa-miR-30b*	Malignant mesothelioma (MM)
+hsa-miR-30c	bladder cancer
+hsa-miR-30e-5p	bladder cancer
+hsa-miR-31	breast cancer
+hsa-miR-32*	Malignant mesothelioma (MM)	
+hsa-miR-320	cardiomyopathy
+hsa-miR-320	renal clear cell carcinoma
+hsa-miR-338	hepatocellular carcinoma (HCC)
+hsa-miR-338	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-340*	Malignant mesothelioma (MM)
+hsa-miR-345	Malignant mesothelioma (MM)	
+hsa-miR-34a	retinoblastoma
+hsa-miR-34a*	Malignant mesothelioma (MM)	
+hsa-miR-34b	retinoblastoma
+hsa-miR-373	esophageal cancer
+hsa-miR-423	Malignant mesothelioma (MM)	
+hsa-miR-429	ovarian cancer (OC)
+hsa-miR-483-3p	Malignant mesothelioma (MM)	
+hsa-miR-485-3p	anxiety disorder
+hsa-miR-494	renal clear cell carcinoma
+hsa-miR-582	Malignant mesothelioma (MM)	
+hsa-miR-584	Malignant mesothelioma (MM)	
+hsa-miR-595	Malignant mesothelioma (MM)	
+hsa-miR-503	adrenocortical carcinoma
+hsa-miR-509	anxiety disorder
+hsa-miR-511	adrenocortical carcinoma
+hsa-miR-512-5p	gastric cancer (stomach cancer)
+hsa-miR-615-3p	Malignant mesothelioma (MM)	
+hsa-miR-7-1*	Malignant mesothelioma (MM)	
+hsa-miR-765	anxiety disorder
+hsa-miR-885-3p	Malignant mesothelioma (MM)	
+hsa-miR-9	Malignant mesothelioma (MM)	
+hsa-miR-9-1	colorectal cancer
+hsa-miR-9-1	stomach neoplasms
+hsa-miR-92a	acute myeloid leukemia (AML)
+hsa-miR-93	hepatocellular carcinoma (HCC)
+hsa-miR-9-3	breast cancer
+hsa-miR-143	lung cancer
+hsa-miR-143	colorectal cancer
+hsa-miR-145	prostate cancer
+hsa-miR-149	prostate cancer
+hsa-miR-150	kidney cancer
+hsa-miR-150	stomach neoplasms
+hsa-miR-151-5p	kidney cancer
+hsa-miR-155	pancreatic cancer
+hsa-miR-155	stomach neoplasms
+hsa-miR-15a	kidney cancer
+hsa-miR-153	glioblastoma
+hsa-miR-155	hepatocellular carcinoma (HCC)
+hsa-miR-15a	non-small cell lung cancer (NSCLC)
+hsa-miR-15a	schizophrenia
+hsa-miR-15b	schizophrenia
+hsa-miR-16	non-small cell lung cancer (NSCLC)
+hsa-miR-16	lung cancer
+hsa-miR-16	prostate cancer
+hsa-miR-17	kidney cancer
+hsa-miR-17	stomach neoplasms
+hsa-miR-185	non-small cell lung cancer (NSCLC)
+hsa-miR-18a	breast cancer
+hsa-miR-18b	multiple sclerosis
+hsa-miR-18b	stomach neoplasms
+hsa-miR-191	kidney cancer
+hsa-miR-191	stomach neoplasms
+hsa-miR-193b	breast cancer
+hsa-miR-195	schizophrenia
+hsa-miR-195	breast cancer
+hsa-miR-195	lung cancer
+hsa-miR-196a-2	breast cancer
+hsa-miR-197	lung cancer
+hsa-miR-199a	kidney cancer
+hsa-miR-19b	kidney cancer
+hsa-miR-200b	kidney cancer
+hsa-miR-9	ovarian cancer (OC)
+hsa-miR-9	hepatocellular carcinoma (HCC)
+hsa-miR-9	lung cancer
+hsa-miR-9*	lung cancer
+hsa-miR-93	lung cancer
+hsa-miR-96	breast cancer
+hsa-miR-96	multiple sclerosis
+hsa-miR-96	prostate cancer
+hsa-miR-98	lung cancer
+hsa-miR-182*	lung cancer
+hsa-let-7c		lung cancer
+hsa-miR-1	heart failure
+hsa-miR-1	rhabdomyosarcoma
+hsa-miR-1	rhabdomyosarcoma
+hsa-miR-101	lung cancer
+hsa-miR-101	kidney cancer
+hsa-miR-106a	kidney cancer
+hsa-miR-106b	kidney cancer
+hsa-miR-17-5p	lung cancer
+hsa-miR-181a	chronic lymphocytic leukemia (CLL)
+hsa-miR-181a	chronic lymphocytic leukemia (CLL)
+hsa-miR-181b	prostate cancer
+hsa-miR-182	breast cancer
+hsa-miR-182	kidney cancer
+hsa-miR-181a-1	hepatocellular carcinoma (HCC)
+hsa-miR-181a-1	stomach neoplasms
+hsa-miR-181a-2	hepatocellular carcinoma (HCC)
+hsa-miR-181a-2	stomach neoplasms
+hsa-miR-181b	chronic lymphocytic leukemia (CLL)
+hsa-miR-181b-1	hepatocellular carcinoma (HCC)
+hsa-miR-181b-1	stomach neoplasms
+hsa-miR-181b-2	hepatocellular carcinoma (HCC)
+hsa-miR-181b-2	stomach neoplasms
+hsa-miR-181c	hepatocellular carcinoma (HCC)
+hsa-miR-181c	stomach neoplasms
+hsa-miR-27a	breast cancer
+hsa-miR-27a	hepatocellular carcinoma (HCC)
+hsa-miR-133a	myeloproliferative disorder
+hsa-miR-133b	bladder cancer
+hsa-miR-133b	stomach neoplasms
+hsa-miR-137	colorectal cancer
+hsa-miR-137	stomach neoplasms
+hsa-miR-138	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-143	T-cell leukemia
+hsa-miR-143	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-143	gastric cancer (stomach cancer)
+hsa-miR-143	hepatocellular carcinoma (HCC)
+hsa-miR-143	hepatocellular carcinoma (HCC)
+hsa-miR-144*	Malignant mesothelioma (MM)
+hsa-miR-145	colorectal cancer
+hsa-miR-145	vascular disease
+hsa-miR-145	bladder cancer
+hsa-miR-145	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-145	gastric cancer (stomach cancer)
+hsa-miR-145	renal clear cell carcinoma
+hsa-miR-145	hepatocellular carcinoma (HCC)
+hsa-miR-145	bladder cancer
+hsa-miR-200b	hepatocellular carcinoma (HCC)
+hsa-miR-200b	malignant melanoma
+hsa-miR-200b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-200c	colorectal cancer
+hsa-miR-200c	breast cancer
+hsa-miR-200c	cancer
+hsa-miR-200c	cancer
+hsa-miR-200c	colorectal cancer
+hsa-miR-200c	epithelial ovarian cancer (EOC)
+hsa-miR-200c	malignant melanoma
+hsa-miR-200c	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-200c	testicular germ cell tumor
+hsa-miR-202	breast cancer
+hsa-miR-202	prostate cancer
+hsa-miR-203	acute lymphoblastic leukemia (ALL)
+hsa-miR-203	chronic myeloid leukemia (CML)
+hsa-miR-203	psoriasis
+hsa-miR-203	skin disease
+hsa-miR-203	bladder cancer
+hsa-miR-203	breast cancer
+hsa-miR-203	colorectal cancer
+hsa-miR-203	esophageal cancer
+hsa-miR-203	lung cancer
+hsa-miR-203	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-26a	acute myeloid leukemia (AML)
+hsa-miR-26a	cardiac hypertrophy
+hsa-miR-26a	colorectal cancer
+hsa-miR-26a	Duchenne muscular dystrophy (DMD)
+hsa-miR-26a	epithelial ovarian cancer (EOC)
+hsa-miR-26a	pituitary adenoma
+hsa-miR-26a	primary biliary cirrhosis (PBC)
+hsa-miR-26a	prostate cancer
+hsa-miR-26a	prostate cancer
+hsa-miR-26a	serous ovarian cancer
+hsa-miR-26a-1	hepatocellular carcinoma (HCC)
+hsa-miR-26a-1	lung cancer
+hsa-miR-26a-1	papillary thyroid carcinoma (PTC)
+hsa-miR-26a-2	hepatocellular carcinoma (HCC)
+hsa-miR-26b	Alzheimer's disease
+hsa-miR-26b	bladder cancer
+hsa-miR-26b	cardiac hypertrophy
+hsa-miR-26b	epithelial ovarian cancer (EOC)
+hsa-miR-26b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-26b	pituitary adenoma
+hsa-miR-26b	prostate cancer
+hsa-miR-26b	schizophrenia
+hsa-miR-26b	stomach neoplasms
+hsa-miR-27a	acute lymphoblastic leukemia (ALL)
+hsa-miR-27a	acute myeloid leukemia (AML)
+hsa-miR-27a	stomach neoplasms
+hsa-miR-32	pancreatic cancer
+hsa-miR-32	prostate cancer
+hsa-miR-32	uterine leiomyoma (ULM)
+hsa-miR-320	homozygous sickle cell disease (HbSS)
+hsa-miR-320	Alzheimer's disease
+hsa-miR-320	colorectal cancer
+hsa-miR-320	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-320	follicular lymphoma (FL)
+hsa-miR-320	prostate cancer
+hsa-miR-320-2	hepatocellular carcinoma (HCC)
+hsa-miR-320a	autism spectrum disorder (ASD)
+hsa-miR-320a	stomach neoplasms
+hsa-miR-323	glioblastoma multiforme (GBM)
+hsa-miR-323	malignant melanoma
+hsa-miR-323	uterine leiomyoma (ULM)
+hsa-miR-324-3p	primary biliary cirrhosis (PBC)
+hsa-miR-324-5p	acute myeloid leukemia (AML)
+hsa-miR-324-5p	hepatocellular carcinoma (HCC)
+hsa-miR-324-5p	malignant melanoma
+hsa-miR-325	acute myeloid leukemia (AML)
+hsa-miR-326	acute myeloid leukemia (AML)
+hsa-miR-326	primary biliary cirrhosis (PBC)
+hsa-miR-326	psoriasis
+hsa-miR-325	malignant melanoma
+hsa-miR-125b	neuroblastoma (NB)
+hsa-miR-125b	non-small cell lung cancer (NSCLC)
+hsa-miR-125b	prostate cancer
+hsa-miR-125b	prostate cancer
+hsa-miR-125b	psoriasis
+hsa-miR-125b	serous ovarian cancer
+hsa-miR-125b	uterine leiomyoma (ULM)
+hsa-miR-125b	vascular disease
+hsa-miR-125b-1	chronic pancreatitis
+hsa-miR-125b-1	epithelial ovarian cancer (EOC)
+hsa-miR-125b-1	glioblastoma
+hsa-miR-125b-1	hepatocellular carcinoma (HCC)
+hsa-miR-125b-1	pancreatic cancer
+hsa-miR-125b-1	pancreatic cancer
+hsa-miR-125b-1	stomach neoplasms
+hsa-miR-125b-2	chronic pancreatitis
+hsa-miR-125b-2	Down syndrome (DS)
+hsa-miR-125b-2	glioblastoma
+hsa-miR-125b-2	hepatocellular carcinoma (HCC)
+hsa-miR-125b-2	lung cancer
+hsa-miR-125b-2	stomach neoplasms
+hsa-miR-126	hepatocellular carcinoma (HCC)
+hsa-miR-126	acute promyelocytic leukemia (APL)
+hsa-miR-126	breast cancer
+hsa-miR-126	non-small cell lung cancer (NSCLC)
+hsa-miR-126	chronic pancreatitis
+hsa-miR-126	stomach neoplasms
+hsa-miR-146a	papillary thyroid carcinoma (PTC)
+hsa-miR-146a	hepatocellular carcinoma (HCC)
+hsa-miR-146a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-146a	vascular disease
+hsa-miR-1228*	Malignant mesothelioma (MM)
+hsa-miR-1228*	stomach neoplasms
+hsa-miR-122a	hepatocellular carcinoma (HCC)
+hsa-miR-124a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-124a	hepatocellular carcinoma (HCC)
+hsa-miR-124a	acute lymphoblastic leukemia (ALL)
+hsa-miR-125a	breast cancer
+hsa-miR-125a	stomach neoplasms
+hsa-miR-125a	hepatocellular carcinoma (HCC)
+hsa-miR-125b	bladder cancer
+hsa-miR-125b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-125b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-125b	hepatocellular carcinoma (HCC)
+hsa-miR-125b	prostate cancer
+hsa-miR-126	hepatocellular carcinoma (HCC)
+hsa-miR-126*	hepatocellular carcinoma (HCC)
+hsa-miR-128b	hepatocellular carcinoma (HCC)
+hsa-miR-129	bladder cancer
+hsa-miR-129	hepatocellular carcinoma (HCC)
+hsa-miR-379	dermatomyositis (DM)
+hsa-miR-379	Duchenne muscular dystrophy (DMD)
+hsa-miR-379	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-379	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-379	miyoshi myopathy (MM)
+hsa-miR-379	nemaline myopathy (NM)
+hsa-miR-379	polymyositis (PM)
+hsa-miR-17-3p	malignant melanoma
+hsa-miR-17-5p	colorectal cancer
+hsa-miR-17-5p	anaplastic thyroid carcinoma (ATC)
+hsa-miR-17-5p	breast cancer
+hsa-miR-17-5p	chronic myeloid leukemia (CML)
+hsa-miR-17-5p	lung cancer
+hsa-miR-17-5p	MYC-rearranged lymphoma
+hsa-miR-17-5p	bladder cancer
+hsa-miR-17-5p	breast cancer
+hsa-miR-17-5p	colorectal cancer
+hsa-miR-17-5p	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-17-5p	hepatocellular carcinoma (HCC)
+hsa-miR-17-5p	lung cancer
+hsa-miR-17-5p	malignant lymphoma
+hsa-miR-17-5p	neuroblastoma (NB)
+hsa-miR-17-5p	pancreatic cancer
+hsa-miR-17-5p	primary biliary cirrhosis (PBC)
+hsa-miR-17-5p	prostate cancer
+hsa-miR-100	epithelial ovarian cancer (EOC)
+hsa-miR-100	epithelial ovarian cancer (EOC)
+hsa-miR-100	malignant melanoma
+hsa-miR-100	non-small cell lung cancer (NSCLC)
+hsa-miR-100	ovarian cancer (OC)
+hsa-miR-100	ovarian cancer (OC)
+hsa-miR-100	pancreatic cancer
+hsa-miR-100	prostate cancer
+hsa-miR-100	prostate cancer
+hsa-miR-100	prostate cancer
+hsa-miR-100	psoriasis
+hsa-miR-100	serous ovarian cancer
+hsa-miR-100-1	chronic pancreatitis
+hsa-miR-100-1	pancreatic cancer
+hsa-miR-100-1	pituitary adenoma
+hsa-miR-100-2	chronic pancreatitis
+hsa-miR-100-2	pancreatic cancer
+hsa-miR-100-2	pituitary adenoma
+hsa-miR-101	Alzheimer's disease
+hsa-miR-101	B-cell chronic lymphocytic leukemia
+hsa-miR-101	Duchenne muscular dystrophy (DMD)
+hsa-miR-101	epithelial ovarian cancer (EOC)
+hsa-miR-101	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-101-1	breast cancer
+hsa-miR-20a	hepatocellular carcinoma (HCC)
+hsa-miR-146a	Alzheimer's disease
+hsa-miR-148b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-196a-2	congenital heart disease
+hsa-miR-199a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-203	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-203	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-207	hepatocellular carcinoma (HCC)
+hsa-miR-21	breast cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-21	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	lung cancer
+hsa-miR-21	tongue squamous cell carcinoma
+hsa-miR-210 	lung cancer
+hsa-miR-214	adrenocortical carcinoma
+hsa-miR-22	breast cancer
+hsa-miR-221	glioma
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-222	glioma
+hsa-miR-186	hepatocellular carcinoma (HCC)
+hsa-miR-186	stomach neoplasms
+hsa-miR-189	malignant melanoma
+hsa-miR-1	myeloproliferative disorder
+hsa-miR-107	pancreatic cancer
+hsa-miR-107	hepatocellular carcinoma (HCC)
+hsa-miR-107	glioma
+hsa-miR-126*	lung cancer
+hsa-miR-127	Burkitt lymphoma
+hsa-miR-127	stomach neoplasms
+hsa-miR-128	anxiety disorder
+hsa-miR-129-2	colorectal cancer
+hsa-miR-130a	hepatocellular carcinoma (HCC)
+hsa-miR-199a*	bladder cancer
+hsa-miR-200a	hepatocellular carcinoma (HCC)
+hsa-miR-200a	ovarian cancer (OC)
+hsa-miR-200b	ovarian cancer (OC)
+hsa-miR-200b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-200c	breast cancer
+hsa-miR-200c	endometrial cancer
+hsa-miR-200c	ovarian cancer (OC)
+hsa-miR-203	Malignant mesothelioma (MM)
+hsa-miR-205	hepatocellular carcinoma (HCC)
+hsa-miR-146b	dermatomyositis (DM)
+hsa-miR-146b	Duchenne muscular dystrophy (DMD)
+hsa-miR-146b	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-146b	Inclusion body myositis (IBM)
+hsa-miR-146b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-146b	miyoshi myopathy (MM)
+hsa-miR-146b	nemaline myopathy (NM)
+hsa-miR-146b	ovarian cancer (OC)
+hsa-miR-146b	papillary thyroid carcinoma (PTC)
+hsa-miR-146b	polymyositis (PM)
+hsa-miR-146b	psoriasis
+hsa-miR-147	acute myeloid leukemia (AML)
+hsa-miR-147	epithelial ovarian cancer (EOC)
+hsa-miR-148a	hepatocellular carcinoma (HCC)
+hsa-miR-148a	asthma
+hsa-miR-148a	breast cancer
+hsa-miR-148a	breast cancer
+hsa-miR-148a	dermatomyositis (DM)
+hsa-miR-148a	Duchenne muscular dystrophy (DMD)
+hsa-miR-148a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-148a	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-148a	miyoshi myopathy (MM)
+hsa-miR-148a	nemaline myopathy (NM)
+hsa-miR-148a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-148a	pancreatic cancer
+hsa-miR-148a	stomach neoplasms
+hsa-miR-1	cardiomyopathy
+hsa-miR-192	nasopharyngeal carcinoma (NPC)
+hsa-miR-192	stomach neoplasms
+hsa-miR-192-1	hepatocellular carcinoma (HCC)
+hsa-miR-221	gastric cancer (stomach cancer)
+hsa-miR-222	gastric cancer (stomach cancer)
+hsa-miR-25	gastric cancer (stomach cancer)
+hsa-miR-26a	primary biliary cirrhosis (PBC)
+hsa-miR-299-5p	primary biliary cirrhosis (PBC)
+hsa-miR-31	colorectal cancer
+hsa-miR-328	breast cancer
+hsa-miR-328	stomach neoplasms
+hsa-miR-346	schizophrenia
+hsa-miR-34a	hepatocellular carcinoma (HCC)
+hsa-miR-34a	malignant melanoma
+hsa-miR-34b	acute myeloid leukemia (AML)
+hsa-miR-375	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-449a	prostate cancer
+hsa-miR-449a	stomach neoplasms
+hsa-miR-451	gastric cancer (stomach cancer)
+hsa-miR-451	colorectal cancer
+hsa-miR-7	lung cancer
+hsa-miR-7	breast cancer
+hsa-miR-7	glioblastoma
+hsa-miR-92	colorectal cancer
+hsa-miR-96	hearing lossmeningioma
+hsa-miR-101-1	lung cancer
+hsa-miR-101-1	stomach neoplasms
+hsa-miR-101a	Cerebellar neurodegeneration
+hsa-miR-101b-2	hepatocellular carcinoma (HCC)
+hsa-miR-102	papillary thyroid carcinoma (PTC)
+hsa-miR-103	esophageal cancer
+hsa-miR-103	acute myeloid leukemia (AML)
+hsa-miR-103	cardiac hypertrophy
+hsa-miR-103	Cerebellar neurodegeneration
+hsa-miR-103	epithelial ovarian cancer (EOC)
+hsa-miR-103	pancreatic cancer
+hsa-miR-103	pituitary adenoma
+hsa-miR-103	prostate cancer
+hsa-miR-103-1	bladder cancer
+hsa-miR-103-2	hepatocellular carcinoma (HCC)
+hsa-miR-103-2	pancreatic cancer
+hsa-miR-103-2	pituitary adenoma
+hsa-miR-104	malignant melanoma
+hsa-miR-105	epithelial ovarian cancer (EOC)
+hsa-miR-105	malignant melanoma
+hsa-miR-106a	colorectal cancer
+hsa-miR-106a	lung cancer
+hsa-miR-106a	T-cell leukemia
+hsa-miR-106a	autism spectrum disorder (ASD)
+hsa-miR-106a	colorectal cancer
+hsa-miR-424	acute myeloid leukemia (AML)
+hsa-miR-424	cardiac hypertrophy
+hsa-miR-424	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-424	ovarian cancer (OC)
+hsa-miR-424	pancreatic cancer
+hsa-miR-429	breast cancer
+hsa-miR-429	cancer
+hsa-miR-431	autism spectrum disorder (ASD)
+hsa-miR-432	epithelial ovarian cancer (EOC)
+hsa-miR-432	autism spectrum disorder (ASD)
+hsa-miR-432	Duchenne muscular dystrophy (DMD)
+hsa-miR-432	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-432	miyoshi myopathy (MM)
+hsa-miR-432	nemaline myopathy (NM)
+hsa-miR-432*	primary biliary cirrhosis (PBC)
+hsa-miR-451	breast cancer
+hsa-miR-451	acute lymphoblastic leukemia (ALL)
+hsa-miR-451	acute myeloid leukemia (AML)
+hsa-miR-451	cardiac hypertrophy
+hsa-miR-451	homozygous sickle cell disease (HbSS)
+hsa-miR-451	primary biliary cirrhosis (PBC)
+hsa-miR-451	uterine leiomyoma (ULM)
+hsa-miR-452	dermatomyositis (DM)
+hsa-miR-122a	malignant melanoma
+hsa-miR-122a	psoriasis
+hsa-miR-123	B-cell chronic lymphocytic leukemia
+hsa-miR-123	glioblastoma
+hsa-miR-123	hepatocellular carcinoma (HCC)
+hsa-miR-124a	breast cancer
+hsa-miR-124a	cancer
+hsa-miR-124a	chronic lymphocytic leukemia (CLL)
+hsa-miR-124a	colorectal cancer
+hsa-miR-124a	glioblastoma multiforme (GBM)
+hsa-miR-124a	lung cancer
+hsa-miR-124a	medulloblastoma
+hsa-miR-126	hepatocellular carcinoma (HCC)
+hsa-miR-126	lung cancer
+hsa-miR-126	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-126	prostate cancer
+hsa-miR-126*	prostate cancer
+hsa-miR-126*	hepatocellular carcinoma (HCC)
+hsa-miR-126*	lung cancer
+hsa-miR-126-5p	cardiac hypertrophy
+hsa-miR-127	cancer
+hsa-miR-127	cardiac hypertrophy
+hsa-miR-127	Duchenne muscular dystrophy (DMD)
+hsa-miR-9	epithelial ovarian cancer (EOC)
+hsa-miR-9	follicular lymphoma (FL)
+hsa-miR-9	hepatocellular carcinoma (HCC)
+hsa-miR-9	lung cancer
+hsa-miR-9	malignant melanoma
+hsa-miR-9	neuroblastoma (NB)
+hsa-miR-9	non-small cell lung cancer (NSCLC)
+hsa-miR-9*	acute myeloid leukemia (AML)
+hsa-miR-9*	hepatocellular carcinoma (HCC)
+hsa-miR-9*	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-9-1	breast cancer
+hsa-miR-9-1	breast cancer
+hsa-miR-9-1	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-92	chronic lymphocytic leukemia (CLL)
+hsa-miR-92	Duchenne muscular dystrophy (DMD)
+hsa-miR-92	nemaline myopathy (NM)
+hsa-miR-92	neuroblastoma (NB)
+hsa-miR-92	primary biliary cirrhosis (PBC)
+hsa-miR-92	prostate cancer
+hsa-miR-92	schizophrenia
+hsa-miR-9-2	hepatocellular carcinoma (HCC)
+hsa-miR-9-2	glioblastoma
+hsa-miR-9-2	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-9-2	stomach neoplasms
+hsa-miR-92-1	B-cell chronic lymphocytic leukemia
+hsa-miR-141	malignant melanoma
+hsa-miR-141	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-126	epithelial ovarian cancer (EOC)
+hsa-miR-16	hepatocellular carcinoma (HCC)
+hsa-miR-17-5p	colorectal cancer
+hsa-miR-1 	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-93	gastric cancer (stomach cancer)
+hsa-miR-17	medulloblastoma
+hsa-miR-18a	medulloblastoma
+hsa-miR-19b	medulloblastoma
+hsa-miR-20a	medulloblastoma
+hsa-miR-92a	medulloblastoma
+hsa-let-7a	hepatocellular carcinoma (HCC)
+hsa-let-7b*	Malignant mesothelioma (MM)
+hsa-let-7c	prostate cancer
+hsa-let-7e*	Malignant mesothelioma (MM)
+hsa-let-7g	renal clear cell carcinoma
+hsa-let-7g	stomach neoplasms
+hsa-miR-100	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-100	prostate cancer
+hsa-miR-106b	hepatocellular carcinoma (HCC)
+hsa-miR-140	B-cell chronic lymphocytic leukemia
+hsa-miR-140	cardiac hypertrophy
+hsa-miR-140	epithelial ovarian cancer (EOC)
+hsa-miR-140	epithelial ovarian cancer (EOC)
+hsa-miR-140	homozygous sickle cell disease (HbSS)
+hsa-miR-140	lung cancer
+hsa-miR-140	malignant melanoma
+hsa-miR-140	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-140	testicular germ cell tumor
+hsa-miR-140*	cardiac hypertrophy
+hsa-miR-141	serous ovarian cancer
+hsa-miR-141	breast cancer
+hsa-miR-141	cancer
+hsa-miR-141	cancer
+hsa-miR-141	cholangiocarcinoma
+hsa-miR-141	B-cell chronic lymphocytic leukemia
+hsa-miR-141	epithelial ovarian cancer (EOC)
+hsa-miR-141	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-141	hepatocellular carcinoma (HCC)
+hsa-miR-141	homozygous sickle cell disease (HbSS)
+hsa-miR-141	prostate cancer
+hsa-miR-141	psoriasis
+hsa-miR-142-3p	hepatocellular carcinoma (HCC)
+hsa-miR-142-3p	ovarian cancer (OC)
+hsa-miR-124a-3	lung cancer
+hsa-miR-223	endometriosis
+hsa-miR-23b	neuroblastoma (NB)
+hsa-miR-27a	gastric cancer (stomach cancer)
+hsa-miR-298	Alzheimer's disease
+hsa-miR-29b	acute myeloid leukemia (AML)
+hsa-miR-29c	chronic lymphocytic leukemia (CLL)
+hsa-miR-29c	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-29c	endometriosis
+hsa-miR-31	bladder cancer
+hsa-miR-320	cholangiocarcinoma
+hsa-miR-320	acute myeloid leukemia (AML)
+hsa-miR-328	Alzheimer's disease
+hsa-miR-34a	melanoma
+hsa-miR-34c	endometriosis
+hsa-miR-363*	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-365	endometriosis
+hsa-miR-377	diabetic nephropathy
+hsa-miR-424	endometriosis
+hsa-miR-494	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-494	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-542-3p	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-9	medulloblastoma
+hsa-miR-145	lung cancer
+hsa-miR-145	glioma
+hsa-miR-196a	colorectal cancer
+hsa-miR-155	pancreatic cancer
+hsa-miR-155	acute myeloid leukemia (AML)
+hsa-miR-155	breast cancer
+hsa-miR-155	breast cancer
+hsa-miR-155	Burkitt lymphoma
+hsa-miR-155	Burkitt lymphoma
+hsa-miR-155	Burkitt lymphoma
+hsa-miR-155	cardiac hypertrophy
+hsa-miR-155	chronic lymphocytic leukemia (CLL)
+hsa-miR-155	chronic lymphocytic leukemia (CLL)
+hsa-miR-155	colorectal cancer
+hsa-miR-155	dermatomyositis (DM)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-155	Down syndrome (DS)
+hsa-miR-155	Duchenne muscular dystrophy (DMD)
+hsa-miR-155	epithelial ovarian cancer (EOC)
+hsa-miR-155	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-155	follicular lymphoma (FL)
+hsa-miR-155	hepatocellular carcinoma (HCC)
+hsa-miR-155	Hodgkin's lymphoma
+hsa-miR-155	glioblastoma multiforme (GBM)
+hsa-miR-155	hepatocellular carcinoma (HCC)
+hsa-miR-27a	acute myeloid leukemia (AML)
+hsa-miR-328	acute myeloid leukemia (AML)
+hsa-miR-17-5p	psoriasis
+hsa-miR-181a-1	prostate cancer
+hsa-miR-92	medulloblastoma
+hsa-miR-99a	endometriosis
+hsa-miR-99b	endometriosis
+hsa-miR-328	primary biliary cirrhosis (PBC)
+hsa-miR-532-5p	malignant melanoma
+hsa-let-7d	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-101	bladder cancer
+hsa-miR-101	prostate cancer
+hsa-miR-106b	Alzheimer's disease
+hsa-miR-106b	gastric cancer (stomach cancer)
+hsa-miR-122a	primary biliary cirrhosis (PBC)
+hsa-miR-127	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-133a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-141	gastric cancer (stomach cancer)
+hsa-miR-143	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-146b	glioma
+hsa-miR-28	malignant melanoma
+hsa-miR-296	colorectal cancer
+hsa-miR-221	melanoma
+hsa-miR-222	bladder cancer
+hsa-miR-452	bladder cancer
+hsa-miR-452*	bladder cancer
+hsa-miR-7	bladder cancer
+hsa-miR-9	Huntington's disease (HD)
+hsa-miR-9*	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-183	colorectal cancer
+hsa-miR-18a	colorectal cancer
+hsa-miR-196a	esophageal cancer
+hsa-miR-199b-5p	medulloblastoma
+hsa-miR-205	breast cancer
+hsa-miR-205	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-20a	colorectal cancer
+hsa-miR-21	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-21	prostate cancer
+hsa-miR-21	esophageal cancer
+hsa-miR-221	prostate cancer
+hsa-miR-221	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-27a	autism spectrum disorder (ASD)
+hsa-miR-27a	cardiac hypertrophy
+hsa-miR-27a	cardiac hypertrophy
+hsa-miR-27a	colorectal cancer
+hsa-miR-27a	malignant melanoma
+hsa-miR-27a	Oral Squamous Cell Carcinoma (OSCC)	
+hsa-miR-27a	prostate cancer
+hsa-miR-27a	prostate cancer
+hsa-miR-27a	serous ovarian cancer
+hsa-miR-27a	uterine leiomyoma (ULM)
+hsa-miR-27b	acute lymphoblastic leukemia (ALL)
+hsa-miR-27b	acute myeloid leukemia (AML)
+hsa-miR-27b	cardiac hypertrophy
+hsa-miR-27b	cardiac hypertrophy
+hsa-miR-27b	colorectal cancer
+hsa-miR-27b	lung cancer
+hsa-miR-27b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-27b	prostate cancer
+hsa-miR-27b	prostate cancer
+hsa-miR-27b	stomach neoplasms
+hsa-miR-28	kidney cancer
+hsa-miR-296	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-296	ovarian cancer (OC)
+hsa-miR-296	primary biliary cirrhosis (PBC)
+hsa-miR-296	prostate cancer
+hsa-miR-328	colorectal cancer
+hsa-miR-328	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-328	glioblastoma multiforme (GBM)
+hsa-miR-328	primary biliary cirrhosis (PBC)
+hsa-miR-328-1	hepatocellular carcinoma (HCC)
+hsa-miR-33	B-cell chronic lymphocytic leukemia
+hsa-miR-33	lung cancer
+hsa-miR-330	follicular lymphoma (FL)
+hsa-miR-330	Huntington's disease (HD)
+hsa-miR-330	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-331	acute myeloid leukemia (AML)
+hsa-miR-331	Duchenne muscular dystrophy (DMD)
+hsa-miR-331	epithelial ovarian cancer (EOC)
+hsa-miR-331	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-331	malignant melanoma
+hsa-miR-331	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-331	stomach neoplasms
+hsa-miR-335	breast cancer
+hsa-miR-335	acute lymphoblastic leukemia (ALL)
+hsa-miR-335	acute myeloid leukemia (AML)
+hsa-miR-335	dermatomyositis (DM)
+hsa-miR-335	Duchenne muscular dystrophy (DMD)
+hsa-miR-335	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-335	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-335	stomach neoplasms
+hsa-miR-347	vascular disease
+hsa-miR-21	glioblastoma
+hsa-miR-21	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-1	endometriosis
+hsa-miR-1	cardiac hypertrophy
+hsa-let-7d	Hepatocellular carcinoma (HCC)
+hsa-let-7i	ovarian cancer (OC)
+hsa-miR-1	Hepatocellular carcinoma (HCC)
+hsa-miR-100	endometriosis
+hsa-miR-101	Hepatocellular carcinoma (HCC)
+hsa-miR-101	Hepatocellular carcinoma (HCC)
+hsa-miR-101	prostate cancer
+hsa-miR-106a	gastric cancer (stomach cancer)
+hsa-miR-106b	chronic lymphocytic leukemia (CLL)
+hsa-miR-10a	bladder cancer
+hsa-miR-10a	chronic myeloid leukemia (CML)
+hsa-miR-125a	medulloblastoma
+hsa-miR-125a	endometriosis
+hsa-miR-125b	endometriosis
+hsa-miR-126	breast cancer
+hsa-miR-126	endometriosis
+hsa-miR-141	kidney cancer
+hsa-miR-127	bladder cancer
+hsa-miR-127	breast cancer
+hsa-miR-127	colorectal cancer
+hsa-miR-127	prostate cancer	
+hsa-miR-125b	bladder cancer
+hsa-miR-133a	Hepatocellular carcinoma (HCC)
+hsa-miR-141	endometriosis
+hsa-miR-142-3p	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-143	bladder cancer
+hsa-miR-143	endometriosis
+hsa-miR-143	colorectal cancer
+hsa-miR-145	endometriosis
+hsa-miR-146a*	thyroid cancer
+hsa-miR-146b	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-15	chronic myeloid leukemia (CML)
+hsa-miR-150	endometriosis
+hsa-miR-155	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-155	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-15b	glioma
+hsa-miR-18	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-184	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-192	colorectal cancer
+hsa-miR-194	colorectal cancer
+hsa-miR-17-92	Burkitt lymphoma
+hsa-miR-17-92	colorectal cancer
+hsa-miR-17-92	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-17-92	lymphoproliferative disease
+hsa-miR-18	hepatocellular carcinoma (HCC)
+hsa-miR-181a	acute myeloid leukemia (AML)
+hsa-miR-181a	acute myeloid leukemia (AML)
+hsa-miR-181a	Cerebellar neurodegeneration
+hsa-miR-181a	chronic lymphocytic leukemia (CLL)
+hsa-miR-181a	colorectal cancer
+hsa-miR-181a	glioblastoma
+hsa-miR-181a	homozygous sickle cell disease (HbSS)
+hsa-miR-181a	malignant melanoma
+hsa-miR-181a	pancreatic cancer
+hsa-miR-181a	pancreatic cancer
+hsa-miR-181a	papillary thyroid carcinoma (PTC)
+hsa-miR-181a*	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-181a-1	hepatocellular carcinoma (HCC)
+hsa-miR-148a	prostate cancer
+hsa-miR-148b	hepatocellular carcinoma (HCC)
+hsa-miR-148b	stomach neoplasms
+hsa-miR-188	B-cell chronic lymphocytic leukemia
+hsa-miR-22	prostate cancer
+hsa-miR-22	psoriasis
+hsa-miR-142-3p	psoriasis
+hsa-miR-142-5p	acute myeloid leukemia (AML)
+hsa-miR-142-5p	hepatocellular carcinoma (HCC)
+hsa-miR-142-5p	ovarian cancer (OC)
+hsa-miR-143	Burkitt lymphoma
+hsa-miR-143	chronic lymphocytic leukemia (CLL)
+hsa-miR-143	colorectal cancer
+hsa-miR-143	colorectal cancer
+hsa-miR-143	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-143	Obesity
+hsa-miR-143	breast cancer
+hsa-miR-143	cervical cancer
+hsa-miR-143	colorectal cancer
+hsa-miR-143	colorectal cancer
+hsa-miR-143	epithelial ovarian cancer (EOC)
+hsa-miR-143	hepatocellular carcinoma (HCC)
+hsa-miR-143	pancreatic cancer
+hsa-miR-143	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-143	prostate cancer
+hsa-miR-143	serous ovarian cancer
+hsa-miR-143	uveal melanoma
+hsa-miR-143	vascular disease
+hsa-miR-144	uterine leiomyoma (ULM)
+hsa-miR-145	lung cancer
+hsa-miR-145	Burkitt lymphoma
+hsa-miR-213	malignant melanoma
+hsa-miR-155	Inclusion body myositis (IBM)
+hsa-miR-299-3p	Duchenne muscular dystrophy (DMD)
+hsa-miR-335	miyoshi myopathy (MM)
+hsa-miR-106a	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-130	Spinocerebellar ataxia 1
+hsa-miR-19	Spinocerebellar ataxia 1
+hsa-miR-130b	T-cell leukemia
+hsa-miR-93 	T-cell leukemia
+hsa-miR-196b	endometriosis
+hsa-miR-196b	stomach neoplasms
+hsa-miR-20	medulloblastoma 
+hsa-miR-200a	endometriosis
+hsa-miR-200b	endometriosis
+hsa-miR-200c	kidney cancer
+hsa-miR-204	cholangiocarcinoma
+hsa-miR-205	Hepatocellular carcinoma (HCC)
+hsa-miR-205	squamous carcinoma
+hsa-miR-205	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-206	Waldenstrom Macroglobulinemia (WM)
+hsa-miR-20a	endometriosis
+hsa-miR-21	gastric cancer (stomach cancer)
+hsa-miR-21	heart failure
+hsa-miR-215	colorectal cancer
+hsa-miR-210	lung cancer
+hsa-miR-210	miyoshi myopathy (MM)
+hsa-miR-210	nemaline myopathy (NM)
+hsa-miR-210	pancreatic cancer
+hsa-miR-210	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-210	polymyositis (PM)
+hsa-miR-210	prostate cancer
+hsa-miR-211	epithelial ovarian cancer (EOC)
+hsa-miR-211	malignant melanoma
+hsa-miR-212	alcoholic liver disease (ALD)
+hsa-miR-212	autism spectrum disorder (ASD)
+hsa-miR-212	hepatocellular carcinoma (HCC)
+hsa-miR-212	lung cancer
+hsa-miR-212	nasopharyngeal carcinoma (NPC)
+hsa-miR-212	pancreatic cancer
+hsa-miR-212	pituitary adenoma
+hsa-miR-212	primary biliary cirrhosis (PBC)
+hsa-miR-212	schizophrenia
+hsa-miR-212	uterine leiomyoma (ULM)
+hsa-miR-212	stomach neoplasms
+hsa-miR-213	B-cell chronic lymphocytic leukemia
+hsa-miR-213	breast cancer
+hsa-miR-213	follicular lymphoma (FL)
+hsa-miR-213	pancreatic cancer
+hsa-miR-213	papillary thyroid carcinoma (PTC)
+hsa-miR-144	malignant melanoma
+hsa-miR-296	lupus nephritistients.
+hsa-miR-30a-5p	lupus nephritis
+hsa-miR-30d	lupus nephritis
+hsa-miR-320	lupus nephritis
+hsa-miR-324-3p	lupus nephritis
+hsa-miR-324-5p	lupus nephritis
+hsa-miR-325	lupus nephritis
+hsa-miR-345	lupus nephritis
+hsa-miR-346	lupus nephritis
+hsa-miR-365	lupus nephritis
+hsa-miR-381	lupus nephritis
+hsa-miR-423	lupus nephritis
+hsa-miR-433	lupus nephritis
+hsa-miR-433	stomach neoplasms
+hsa-miR-484	lupus nephritis
+hsa-miR-486	lupus nephritis
+hsa-miR-486	stomach neoplasms
+hsa-miR-494	lupus nephritis
+hsa-miR-500	lupus nephritis
+hsa-miR-513	lupus nephritis
+hsa-miR-516-5p	lupus nephritis
+hsa-miR-518b	lupus nephritis
+hsa-miR-518c*	lupus nephritis
+hsa-miR-557	lupus nephritis
+hsa-miR-575	lupus nephritis
+hsa-miR-155	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-155	lung cancer
+hsa-miR-155	miyoshi myopathy (MM)
+hsa-miR-155	nemaline myopathy (NM)
+hsa-miR-155	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-155	ovarian cancer (OC)
+hsa-miR-155	pancreatic cancer
+hsa-miR-155	pancreatic cancer
+hsa-miR-155	pancreatic cancer
+hsa-miR-155	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-138-2	papillary thyroid carcinoma (PTC)
+hsa-miR-138-2	pituitary adenoma
+hsa-miR-139	cardiac hypertrophy
+hsa-miR-139	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-139	follicular lymphoma (FL)
+hsa-miR-139	hepatocellular carcinoma (HCC)
+hsa-miR-139	malignant melanoma
+hsa-miR-139	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-139	stomach neoplasms
+hsa-miR-145	prostate cancer
+hsa-miR-222	Inclusion body myositis (IBM)
+hsa-miR-222	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-222	miyoshi myopathy (MM)
+hsa-miR-222	nemaline myopathy (NM)
+hsa-miR-222	malignant melanoma
+hsa-miR-128	neurodegeneration
+hsa-miR-139-5p	neurodegeneration
+hsa-miR-146a	neurodegeneration
+hsa-miR-181a-1*	neurodegeneration
+hsa-miR-203	neurodegeneration
+hsa-miR-320	neurodegeneration
+hsa-miR-328	neurodegeneration
+hsa-miR-337-3p	neurodegeneration
+hsa-miR-338-3p	neurodegeneration
+hsa-miR-339-5p	neurodegeneration
+hsa-miR-342-3p	neurodegeneration
+hsa-let-7a	non-small cell lung cancer (NSCLC)
+hsa-let-7b	non-small cell lung cancer (NSCLC)
+hsa-let-7d	non-small cell lung cancer (NSCLC)	
+hsa-let-7g	non-small cell lung cancer (NSCLC)
+hsa-miR-21	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-15a	Polycystic Kidney Disease
+hsa-miR-15a	Polycystic liver disease
+hsa-miR-145	prostate cancer
+hsa-miR-15a	prostate cancer
+hsa-miR-16-1	prostate cance
+hsa-miR-16-1	stomach neoplasms
+hsa-miR-221	prostate cancer
+hsa-miR-222	prostate cancer
+hsa-miR-302	teratocarcinoma
+hsa-miR-302a	malignant melanoma
+hsa-miR-302b	malignant melanoma
+hsa-miR-302b*	acute myeloid leukemia (AML)
+hsa-miR-221	melanoma
+hsa-miR-222	melanoma
+hsa-let-7f	ulcerative colitis (UC)
+hsa-miR-126 	ulcerative colitis (UC)
+hsa-miR-16 	ulcerative colitis (UC)
+hsa-miR-192 	ulcerative colitis (UC)
+hsa-miR-195 	ulcerative colitis (UC)
+hsa-miR-199a* 	ulcerative colitis (UC)
+hsa-miR-203 	ulcerative colitis (UC)
+hsa-miR-21 	ulcerative colitis (UC)
+hsa-miR-23a 	ulcerative colitis (UC)
+hsa-miR-23b 	ulcerative colitis (UC)
+hsa-miR-24 	ulcerative colitis (UC)
+hsa-miR-26a 	ulcerative colitis (UC)
+hsa-miR-29a 	ulcerative colitis (UC)
+hsa-miR-29a	stomach neoplasms
+hsa-miR-422b 	ulcerative colitis (UC)
+hsa-miR-629 	ulcerative colitis (UC)
+hsa-miR-629	stomach neoplasms
+hsa-miR-299-3p	nemaline myopathy (NM)
+hsa-miR-299-5p	dermatomyositis (DM)
+hsa-miR-299-5p	Duchenne muscular dystrophy (DMD)
+hsa-miR-299-5p	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-299-5p	miyoshi myopathy (MM)
+hsa-miR-299-5p	nemaline myopathy (NM)
+hsa-miR-29a	Alzheimer's disease
+hsa-miR-29a	lung cancer
+hsa-miR-29a	type 2 diabetes
+hsa-miR-29a	cardiac hypertrophy
+hsa-miR-29a	cardiac hypertrophy
+hsa-miR-29a	Cerebellar neurodegeneration
+hsa-miR-29a	Duchenne muscular dystrophy (DMD)
+hsa-miR-29a	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-29a	homozygous sickle cell disease (HbSS)
+hsa-miR-29a	Huntington's disease (HD)
+hsa-miR-29a	ovarian cancer (OC)
+hsa-miR-29a	prostate cancer
+hsa-miR-29a	schizophrenia
+hsa-miR-29a	serous ovarian cancer
+hsa-miR-29a-2	chronic lymphocytic leukemia (CLL)
+hsa-miR-29a-2	papillary thyroid carcinoma (PTC)
+hsa-miR-29b	cholangiocarcinoma
+hsa-miR-29b	chronic lymphocytic leukemia (CLL)	
+hsa-miR-29b	chronic lymphocytic leukemia (CLL)
+hsa-miR-452	Duchenne muscular dystrophy (DMD)
+hsa-miR-452	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-452	nemaline myopathy (NM)
+hsa-miR-483	chronic pancreatitis
+hsa-miR-483	primary biliary cirrhosis (PBC)
+hsa-miR-484	autism spectrum disorder (ASD)
+hsa-miR-485-5p	Duchenne muscular dystrophy (DMD)
+hsa-miR-486	cardiac hypertrophy
+hsa-miR-486	Duchenne muscular dystrophy (DMD)
+hsa-miR-486	uterine leiomyoma (ULM)
+hsa-miR-487b	dermatomyositis (DM)
+hsa-miR-487b	Duchenne muscular dystrophy (DMD)
+hsa-miR-487b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-487b	miyoshi myopathy (MM)
+hsa-miR-487b	nemaline myopathy (NM)
+hsa-miR-487b	ovarian cancer (OC)
+hsa-miR-487b	stomach neoplasms
+hsa-miR-491	prostate cancer
+hsa-miR-493-3p	Duchenne muscular dystrophy (DMD)
+hsa-miR-493-3p	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-493-3p	nemaline myopathy (NM)
+hsa-miR-493-5p	uterine leiomyoma (ULM)
+hsa-miR-494	chronic pancreatitis
+hsa-miR-494	ovarian cancer (OC)
+hsa-miR-494	primary biliary cirrhosis (PBC)
+hsa-miR-494	stomach neoplasms
+hsa-miR-495	epithelial ovarian cancer (EOC)
+hsa-miR-495	stomach neoplasms
+hsa-miR-92-1	malignant lymphoma
+hsa-miR-92-1	pancreatic cancer
+hsa-miR-92-2	T-cell leukemia
+hsa-miR-92-2	gastric cancer (stomach cancer)
+hsa-miR-92-2	pancreatic cancer
+hsa-miR-92-2	prostate cancer
+hsa-miR-93	serous ovarian cancer
+hsa-miR-93	gastric cancer (stomach cancer)
+hsa-miR-93	vesicular stomatitis
+hsa-miR-93	Alzheimer's disease
+hsa-miR-93	autism spectrum disorder (ASD)
+hsa-miR-93	hepatocellular carcinoma (HCC)
+hsa-miR-93	neuroblastoma (NB)
+hsa-miR-93	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-9-3	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-9-3	papillary thyroid carcinoma (PTC)
+hsa-miR-9-3	pituitary adenoma
+hsa-miR-9-3	stomach neoplasms
+hsa-miR-9-3p	schizophrenia
+hsa-miR-95	autism spectrum disorder (ASD)
+hsa-miR-95	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-95	Duchenne muscular dystrophy (DMD)
+hsa-miR-95	lung cancer
+hsa-miR-95	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-96	chronic pancreatitis
+hsa-miR-127	epithelial ovarian cancer (EOC)
+hsa-miR-127	malignant melanoma
+hsa-miR-127	nemaline myopathy (NM)
+hsa-miR-127	polymyositis (PM)
+hsa-miR-128a	acute lymphoblastic leukemia (ALL)
+hsa-miR-128a	acute myeloid leukemia (AML)
+hsa-miR-128a	Alzheimer's disease
+hsa-miR-128a	autism spectrum disorder (ASD)
+hsa-miR-128a	glioblastoma
+hsa-miR-128a	glioblastoma multiforme (GBM)
+hsa-miR-128a	malignant melanoma
+hsa-miR-128a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-128a	pituitary adenoma
+hsa-miR-128b	lung cancer
+hsa-miR-128b	acute lymphoblastic leukemia (ALL)
+hsa-miR-128b	acute myeloid leukemia (AML)
+hsa-miR-128b	breast cancer
+hsa-miR-128b	chronic pancreatitis
+hsa-miR-128b	colorectal cancer
+hsa-miR-128b	lung cancer
+hsa-miR-128b	pancreatic cancer
+hsa-miR-129	autism spectrum disorder (ASD)
+hsa-miR-129	ovarian cancer (OC)
+hsa-miR-95	malignant melanoma
+hsa-miR-220	B-cell chronic lymphocytic leukemia
+hsa-miR-326	medulloblastoma
+hsa-miR-335	multiple myeloma (MM)
+hsa-miR-342	multiple myeloma (MM)
+hsa-miR-34a	chronic lymphocytic leukemia (CLL)
+hsa-miR-34a	Glomerulosclerosis
+hsa-miR-34a	prostate cancer
+hsa-miR-34b	Burkitt lymphoma
+hsa-miR-355	breast cancer
+hsa-miR-365	breast cancer
+hsa-miR-373*	retinoblastoma
+hsa-miR-492	retinoblastoma
+hsa-miR-494	retinoblastoma
+hsa-miR-497	breast cancer
+hsa-miR-497	stomach neoplasms
+hsa-miR-498	retinoblastoma
+hsa-miR-503	retinoblastoma
+hsa-miR-503	stomach neoplasms
+hsa-miR-513-1	retinoblastoma
+hsa-miR-513-2	retinoblastoma
+hsa-miR-516-3p	breast cancer
+hsa-miR-518c*	retinoblastoma
+hsa-miR-128b	malignant melanoma
+hsa-miR-129	colorectal cancer
+hsa-miR-129	malignant melanoma
+hsa-miR-23a 	Acute Promyelocytic Leukemia (APL)
+hsa-miR-17	B-cell lymphoma
+hsa-miR-20a	B-cell lymphoma
+hsa-miR-155	breast cancer
+hsa-miR-204	breast cancer
+hsa-miR-21	breast cancer
+hsa-miR-221	breast cancer
+hsa-miR-221	breast cancer
+hsa-miR-222	breast cancer
+hsa-miR-222	breast cancer
+hsa-miR-510	breast cancer
+hsa-miR-7	breast cancer
+hsa-miR-425	glioblastom
+hsa-miR-451	glioblastoma
+hsa-miR-486	glioblastoma
+hsa-miR-296	glioma
+hsa-miR-30a	glomerular disease
+hsa-miR-21	glioblastoma multiforme (GBM)
+hsa-miR-335	nemaline myopathy (NM)
+hsa-miR-335	ovarian cancer (OC)
+hsa-miR-335	uterine leiomyoma (ULM)
+hsa-miR-337	epithelial ovarian cancer (EOC)
+hsa-miR-337	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-338	hepatocellular carcinoma (HCC)
+hsa-miR-338	follicular lymphoma (FL)
+hsa-miR-338	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-339	chronic pancreatitis
+hsa-miR-339	colorectal cancer
+hsa-miR-340	acute myeloid leukemia (AML)
+hsa-miR-340	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-340	stomach neoplasms
+hsa-miR-341	cardiac hypertrophy
+hsa-miR-342	colorectal cancer
+hsa-miR-342	acute promyelocytic leukemia (APL)
+hsa-miR-342	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-342	stomach neoplasms
+hsa-miR-345	pancreatic cancer
+hsa-miR-345	papillary thyroid carcinoma (PTC)
+hsa-miR-345	prostate cancer
+hsa-miR-346	follicular thyroid carcinoma (FTC)
+hsa-miR-346	ovarian cancer (OC)
+hsa-miR-346	primary biliary cirrhosis (PBC)	
+hsa-miR-34a	hepatocellular carcinoma (HCC)
+hsa-miR-34a	stomach neoplasms
+hsa-miR-220	glioblastoma
+hsa-miR-220	lung cancer
+hsa-miR-220	pancreatic cancer
+hsa-miR-220	papillary thyroid carcinoma (PTC)
+hsa-miR-221	chronic lymphocytic leukemia (CLL)
+hsa-miR-221	glioblastoma
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-221	malignant melanoma
+hsa-miR-221	non-small cell lung cancer (NSCLC)
+hsa-miR-221	non-small cell lung cancer (NSCLC)
+hsa-miR-221	papillary thyroid carcinoma (PTC)
+hsa-miR-221	prostate cancer
+hsa-miR-221	acute lymphoblastic leukemia (ALL)
+hsa-miR-221	acute myeloid leukemia (AML)
+hsa-miR-221	acute myeloid leukemia (AML)
+hsa-miR-221	Becker muscular dystrophy (BMD)
+hsa-miR-221	bladder cancer
+hsa-miR-221	cardiac hypertrophy
+hsa-miR-221	colorectal cancer
+hsa-miR-221	dermatomyositis (DM)
+hsa-miR-221	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-221	Duchenne muscular dystrophy (DMD)
+hsa-miR-221	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-221	gastric cancer (stomach cancer)
+hsa-miR-222	prostate cancer
+hsa-miR-126	colorectal cancer
+hsa-miR-127	breast cancer
+hsa-miR-127	hepatocellular carcinoma (HCC)
+hsa-miR-16a	hepatocellular carcinoma (HCC)
+hsa-miR-34a	hepatocellular carcinoma (HCC)
+hsa-miR-183	lung cancer	
+hsa-let-7a		lupus nephritis
+hsa-let-7e		lupus nephritis
+hsa-miR-124a	lupus nephritis
+hsa-miR-130b	lupus nephritis
+hsa-miR-133a	lupus nephritis
+hsa-miR-134	lupus nephritis
+hsa-miR-142-5p	lupus nephritis
+hsa-miR-150	lupus nephritis
+hsa-miR-15b	lupus nephritis
+hsa-miR-184	lupus nephritis
+hsa-miR-185	lupus nephritis
+hsa-miR-195	lupus nephritis
+hsa-miR-197	lupus nephritis
+hsa-miR-198	lupus nephritis
+hsa-miR-200c	lupus nephritis
+hsa-miR-628	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-145	chronic lymphocytic leukemia (CLL)
+hsa-miR-222	pancreatic cancer
+hsa-miR-29b	lung cancer
+hsa-miR-382	polymyositis (PM)
+hsa-miR-383	chronic pancreatitis
+hsa-miR-409-3p	chronic pancreatitis
+hsa-miR-155	hypertension
+hsa-let-7a		hepatocellular carcinoma (HCC)
+hsa-let-7a		malignant melanoma
+hsa-let-7a		squamous carcinoma
+hsa-let-7c		Burkitt lymphoma
+hsa-let-7e		retinoblastoma
+hsa-let-7f		breast cancer
+hsa-miR-1	lung cancer
+hsa-miR-1	retinitis pigmentosa (RP)
+hsa-miR-106b	multiple myeloma (MM)
+hsa-miR-122	hepatocellular carcinoma (HCC)
+hsa-miR-125b	medulloblastoma
+hsa-miR-126	acute myeloid leukemia (AML)
+hsa-miR-126*	acute myeloid leukemia (AML)
+hsa-let-7a	cholangiocarcinoma
+hsa-let-7a	adenoma
+hsa-let-7a	breast cancer
+hsa-let-7a	Burkitt lymphoma
+hsa-let-7a	gastric cancer (stomach cancer)
+hsa-let-7a	hamartoma
+hsa-let-7a	Hodgkin's lymphoma
+hsa-let-7a	lipoma
+hsa-let-7a	lung cancer
+hsa-let-7a	lung cancer
+hsa-let-7a	lung cancer
+hsa-let-7a	myoma
+hsa-let-7a	non-small cell lung cancer (NSCLC)
+hsa-let-7a	ovarian cancer (OC)
+hsa-let-7a	sarcoma
+hsa-let-7a	acute lymphoblastic leukemia (ALL)
+hsa-let-7a	acute myeloid leukemia (AML)
+hsa-let-7a	chronic lymphocytic leukemia (CLL)
+hsa-let-7a	colorectal cancer
+hsa-let-7a	epithelial ovarian cancer (EOC)
+hsa-let-7a	gastric cancer (stomach cancer)
+hsa-miR-583	lupus nephritis
+hsa-miR-23b	prostate cancer
+hsa-miR-17-5p	neuroblastoma (NB)
+hsa-miR-20a	colorectal cancer
+hsa-miR-208	lupus nephritis
+hsa-miR-210	lupus nephritis
+hsa-miR-223	lupus nephritis
+hsa-miR-596	lupus nephritis
+hsa-miR-600	lupus nephritis
+hsa-miR-601	lupus nephritis
+hsa-miR-602	lupus nephritis
+hsa-miR-608	lupus nephritis
+hsa-miR-611	lupus nephritis
+hsa-miR-612	lupus nephritis
+hsa-miR-615	lupus nephritis
+hsa-miR-622	lupus nephritis
+hsa-miR-629	lupus nephritis
+hsa-miR-637	lupus nephritis
+hsa-miR-638	lupus nephritis
+hsa-miR-642	lupus nephritis
+hsa-miR-654	lupus nephritis
+hsa-miR-657	lupus nephritis
+hsa-miR-658	lupus nephritis
+hsa-miR-658	stomach neoplasms
+hsa-miR-662	lupus nephritis
+hsa-miR-663	lupus nephritis
+hsa-miR-769-3p	lupus nephritis
+hsa-miR-92b	lupus nephritis
+hsa-miR-137	glioblastoma multiforme (GBM)
+hsa-miR-137	non-small cell lung cancer (NSCLC)
+hsa-miR-137	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-137	hepatocellular carcinoma (HCC)
+hsa-miR-137	malignant melanoma
+hsa-miR-138	anaplastic thyroid carcinoma (ATC)
+hsa-miR-138	malignant melanoma
+hsa-miR-138-1	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-138-1	papillary thyroid carcinoma (PTC)
+hsa-miR-138-2	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-206	breast cancer
+hsa-miR-206	schizophrenia
+hsa-miR-206	breast cancer
+hsa-miR-206	ovarian cancer (OC)
+hsa-miR-207	hepatocellular carcinoma (HCC)
+hsa-miR-208	cardiac hypertrophy
+hsa-miR-20a	chronic myeloid leukemia (CML)
+hsa-miR-20a	lung cancer
+hsa-miR-20a	lung cancer
+hsa-miR-20a	colorectal cancer
+hsa-miR-20a	colorectal cancer
+hsa-miR-20a	hepatocellular carcinoma (HCC)
+hsa-miR-145	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-145	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-148a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-15b	pancreatic cancer
+hsa-miR-197	Inclusion body myositis (IBM)
+hsa-miR-197	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-197	lung cancer
+hsa-miR-197	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-197	pituitary adenoma
+hsa-miR-197	primary biliary cirrhosis (PBC)
+hsa-miR-197	psoriasis
+hsa-miR-197	uterine leiomyoma (ULM)
+hsa-miR-198	schizophrenia
+hsa-miR-198	chronic pancreatitis
+hsa-miR-198	lung cancer
+hsa-miR-198	prostate cancer
+hsa-miR-199a	cancer
+hsa-miR-199a	epithelial ovarian cancer (EOC)
+hsa-miR-199a	acute myeloid leukemia (AML)
+hsa-miR-199a	cardiac hypertrophy
+hsa-miR-199a	dermatomyositis (DM)
+hsa-miR-199a	Duchenne muscular dystrophy (DMD)
+hsa-miR-199a	epithelial ovarian cancer (EOC)
+hsa-miR-199b	malignant melanoma
+hsa-miR-199b	prostate cancer
+hsa-miR-21	bladder cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	glioblastoma
+hsa-miR-21	hepatocellular carcinoma (HCC)
+hsa-miR-21	non-small cell lung cancer (NSCLC)
+hsa-miR-210	breast cancer
+hsa-miR-217	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-221	glioblastoma multiforme (GBM)
+hsa-miR-25	multiple myeloma (MM)
+hsa-miR-26a	Burkitt lymphoma
+hsa-miR-28	Glomerulosclerosis
+hsa-miR-29b	breast cancer
+hsa-miR-29c	breast cancer
+hsa-miR-29c	stomach neoplasms
+hsa-miR-30a-3p	breast cancer
+hsa-miR-30b	Glomerulosclerosis
+hsa-miR-30c-1	Glomerulosclerosis
+hsa-miR-30c-2	Glomerulosclerosis
+hsa-miR-30c-2	stomach neoplasms
+hsa-miR-30d	Glomerulosclerosis
+hsa-miR-32	multiple myeloma (MM)
+hsa-miR-23a	colorectal cancer
+hsa-miR-17-5p	hepatocellular carcinoma (HCC)
+hsa-miR-17-5p	breast cancer
+hsa-miR-181a	glioma
+hsa-miR-181a	multiple myeloma (MM)
+hsa-miR-181b	breast cancer
+hsa-miR-181b	glioma
+hsa-miR-181b	multiple myeloma (MM)
+hsa-miR-181d	breast cancer
+hsa-miR-182	retinitis pigmentosa (RP)
+hsa-miR-182	stomach neoplasms
+hsa-miR-183	retinitis pigmentosa (RP)
+hsa-miR-183	stomach neoplasms
+hsa-miR-18a	hepatocellular carcinoma (HCC)
+hsa-miR-196a	esophageal cancer
+hsa-miR-196a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-198	retinoblastoma
+hsa-miR-19a	hepatocellular carcinoma (HCC)
+hsa-miR-19a	multiple myeloma (MM)
+hsa-miR-19b	hepatocellular carcinoma (HCC)
+hsa-miR-19b	multiple myeloma (MM)
+hsa-miR-205	bladder cancer
+hsa-miR-20a	breast cancer
+hsa-miR-222	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-222	papillary thyroid carcinoma (PTC)
+hsa-miR-222	polymyositis (PM)	
+hsa-miR-222	prostate cancer
+hsa-miR-223	chronic lymphocytic leukemia (CLL)
+hsa-miR-223	acute promyelocytic leukemia (APL)
+hsa-miR-223	acute promyelocytic leukemia (APL)
+hsa-miR-223	chronic myeloid leukemia (CML)
+hsa-miR-223	hepatocellular carcinoma (HCC)
+hsa-miR-223	neutrophilia
+hsa-miR-223	recurrent ovarian cancer
+hsa-miR-223	acute lymphoblastic leukemia (ALL)
+hsa-miR-223	acute myeloid leukemia (AML)
+hsa-miR-223	bladder cancer
+hsa-miR-223	colorectal cancer
+hsa-miR-223	dermatomyositis (DM)
+hsa-miR-223	gastric cancer (stomach cancer)
+hsa-miR-223	hepatocellular carcinoma (HCC)
+hsa-miR-223	Inclusion body myositis (IBM)
+hsa-miR-223	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-223	miyoshi myopathy (MM)
+hsa-miR-223	nemaline myopathy (NM)
+hsa-miR-223	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-223	pancreatic cancer
+hsa-miR-214	ovarian cancer (OC)
+hsa-miR-214	cardiac hypertrophy
+hsa-miR-214	cardiac hypertrophyhy?
+hsa-miR-214	dermatomyositis (DM)
+hsa-miR-214	Duchenne muscular dystrophy (DMD)
+hsa-miR-214	epithelial ovarian cancer (EOC)
+hsa-miR-214	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-214	gastric cancer (stomach cancer)
+hsa-miR-214	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-214	heart failure
+hsa-miR-214	hepatocellular carcinoma (HCC)
+hsa-miR-214	hepatocellular carcinoma (HCC)
+hsa-miR-214	Inclusion body myositis (IBM)
+hsa-miR-214	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-214	lung cancer
+hsa-miR-214	miyoshi myopathy (MM)
+hsa-miR-214	nemaline myopathy (NM)
+hsa-miR-214	pancreatic cancer
+hsa-miR-214	polymyositis (PM)
+hsa-miR-214	prostate cancer
+hsa-miR-214	serous ovarian cancer
+hsa-miR-214	stomach neoplasms
+hsa-miR-215	hepatocellular carcinoma (HCC)
+hsa-miR-215	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-215	psoriasis
+hsa-miR-216	lung cancer
+hsa-miR-214	vascular disease
+hsa-miR-215	malignant melanoma
+hsa-miR-216	hepatocellular carcinoma (HCC)
+hsa-miR-495	dermatomyositis (DM)
+hsa-miR-96	colorectal cancer
+hsa-miR-129	primary biliary cirrhosis (PBC)
+hsa-miR-34a	colorectal cancer
+hsa-miR-221	glioblastoma
+hsa-miR-128	glioma
+hsa-miR-128a	breast cancer
+hsa-miR-129-1	retinoblastoma
+hsa-miR-129-1	stomach neoplasms
+hsa-miR-129-2	retinoblastoma
+hsa-miR-129-2	stomach neoplasms
+hsa-miR-133	retinitis pigmentosa (RP)
+hsa-miR-142	retinitis pigmentosa (RP)
+hsa-miR-142	stomach neoplasms
+hsa-miR-143	Obesity
+hsa-miR-143	stomach neoplasms
+hsa-miR-145	colorectal cancer
+hsa-miR-145	stomach neoplasms
+hsa-miR-146a	Alzheimer's disease
+hsa-miR-146a	breast cancer
+hsa-miR-146a	hepatocellular carcinoma (HCC)
+hsa-miR-146a	ovarian cancer (OC)
+hsa-miR-146a	stomach neoplasms
+hsa-miR-521	prostate cancer
+hsa-miR-194	endometriosis
+hsa-miR-495	Duchenne muscular dystrophy (DMD)
+hsa-miR-495	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-495	miyoshi myopathy (MM)
+hsa-miR-495	nemaline myopathy (NM)
+hsa-miR-497	chronic pancreatitis
+hsa-miR-497	prostate cancer
+hsa-miR-498	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-498	ovarian cancer (OC)
+hsa-miR-498	prostate cancer
+hsa-miR-498	uterine leiomyoma (ULM)
+hsa-miR-5	acute lymphoblastic leukemia (ALL)
+hsa-miR-5	acute myeloid leukemia (AML)
+hsa-miR-501	dermatomyositis (DM)
+hsa-miR-501	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-501	nemaline myopathy (NM)
+hsa-miR-501	polymyositis (PM)
+hsa-miR-503	prostate cancer
+hsa-miR-508	ovarian cancer (OC)
+hsa-miR-510	diarrhea predominant irritable bowel syndrome (IBS-D)
+hsa-miR-511	Alzheimer's disease
+hsa-miR-513	prostate cancer
+hsa-miR-515-3p	ovarian cancer (OC)
+hsa-miR-516-5p	ovarian cancer (OC)
+hsa-miR-518a-2*	Duchenne muscular dystrophy (DMD)
+hsa-miR-518a-2*	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-10a	colorectal cancer
+hsa-miR-205	non-small cell lung cancer (NSCLC)
+hsa-miR-20a	colorectal cancer
+hsa-miR-31	breast cancer
+hsa-miR-31	stomach neoplasms
+hsa-miR-320	breast cancer
+hsa-miR-320	colorectal cancer
+hsa-miR-320	retinoblastoma
+hsa-miR-561	multiple myeloma (MM)
+hsa-miR-615-3p	HBV-related cirrhosis
+hsa-miR-659	frontotemporal dementia
+hsa-miR-7	breast cancer
+hsa-miR-92	colorectal cancer
+hsa-miR-92a	hepatocellular carcinoma (HCC)
+hsa-miR-93	multiple myeloma (MM)
+hsa-miR-93	stomach neoplasms
+hsa-miR-96	retinitis pigmentosa (RP)
+hsa-miR-98	breast cancer
+hsa-miR-196b	acute lymphoblastic leukemia (ALL)
+hsa-miR-708	acute lymphoblastic leukemia (ALL)
+hsa-miR-29b-2	rhabdomyosarcoma (RMS)
+hsa-miR-29c	rhabdomyosarcoma (RMS)
+hsa-miR-101	Spinocerebellar ataxia 1
+hsa-miR-96	hepatocellular carcinoma (HCC)
+hsa-miR-96	hepatocellular carcinoma (HCC)
+hsa-miR-96	malignant melanoma
+hsa-miR-96	non-small cell lung cancer (NSCLC)
+hsa-miR-96	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-96	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-96	retinitis pigmentosa (RP)
+hsa-miR-98	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-99a	chronic pancreatitis
+hsa-miR-99a	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-99a	Down syndrome (DS)
+hsa-miR-99a	epithelial ovarian cancer (EOC)
+hsa-miR-99a	epithelial ovarian cancer (EOC)
+hsa-miR-99a	hepatocellular carcinoma (HCC)
+hsa-miR-99a	lung cancer
+hsa-miR-99a	neuroblastoma (NB)
+hsa-miR-99a	ovarian cancer (OC)
+hsa-miR-99a	prostate cancer
+hsa-miR-99a	serous ovarian cance
+hsa-miR-99b	dermatomyositis (DM)
+hsa-miR-99b	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-99b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-99b	miyoshi myopathy (MM)
+hsa-miR-130a	acute lymphoblastic leukemia (ALL)
+hsa-miR-130a	acute myeloid leukemia (AML)
+hsa-miR-130a	dermatomyositis (DM)
+hsa-miR-130a	Duchenne muscular dystrophy (DMD)
+hsa-miR-130a	glioblastoma
+hsa-miR-130a	stomach neoplasms
+hsa-let-7c	acute lymphoblastic leukemia (ALL)
+hsa-miR-1	cardiomyopathy
+hsa-miR-124a	Cerebellar neurodegeneration
+hsa-miR-139	pancreatic cancer	
+hsa-miR-145	breast cancer
+hsa-miR-155	acute myeloid leukemia (AML)
+hsa-miR-16	chronic lymphocytic leukemia (CLL)
+hsa-miR-181a-2	hepatocellular carcinoma (HCC)
+hsa-miR-181b	chronic lymphocytic leukemia (CLL)
+hsa-miR-181b	acute myeloid leukemia (AML)
+hsa-miR-181b	acute promyelocytic leukemia (APL)
+hsa-miR-181b	B-cell chronic lymphocytic leukemia
+hsa-miR-181b	colorectal cancer
+hsa-miR-181b	colorectal cancer
+hsa-miR-181b	colorectal cancer
+hsa-miR-181b	glioblastoma
+hsa-miR-181b-1	breast cancer
+hsa-miR-181b-1	pancreatic cancer
+hsa-miR-183	colorectal cancer
+hsa-miR-183	hepatocellular carcinoma (HCC)
+hsa-miR-183	malignant melanoma
+hsa-miR-184	neuroblastoma (NB)
+hsa-miR-184	stomach neoplasms
+hsa-miR-196a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-196a-2	breast cancer
+hsa-miR-196b	cervical cancer
+hsa-miR-196b	uterine leiomyoma (ULM)
+hsa-miR-197	follicular thyroid carcinoma (FTC)
+hsa-miR-197	Alzheimer's disease
+hsa-miR-197	chronic pancreatitis
+hsa-miR-197	Duchenne muscular dystrophy (DMD)
+hsa-miR-197	glioblastoma
+hsa-miR-197	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-381	autism spectrum disorder (ASD)
+hsa-miR-381	dermatomyositis (DM)
+hsa-miR-381	Duchenne muscular dystrophy (DMD)
+hsa-miR-381	Inclusion body myositis (IBM)
+hsa-miR-381	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-381	miyoshi myopathy (MM)
+hsa-miR-381	nemaline myopathy (NM)	
+hsa-miR-381	ovarian cancer (OC)
+hsa-miR-381	psoriasis
+hsa-miR-382	dermatomyositis (DM)
+hsa-miR-29b	type 2 diabetes
+hsa-miR-29b	cardiac hypertrophy
+hsa-miR-29b	Duchenne muscular dystrophy (DMD)
+hsa-miR-29b	facioscapulohumeral muscular dystrophy (FSHD)	
+hsa-miR-29b	glioblastoma multiforme (GBM)
+hsa-miR-29b	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-29b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-29b	malignant melanoma
+hsa-miR-29b	nemaline myopathy (NM)
+hsa-miR-29b	papillary thyroid carcinoma (PTC)
+hsa-miR-29b	primary biliary cirrhosis (PBC)
+hsa-miR-29b	prostate cancer
+hsa-miR-29b	schizophrenia
+hsa-miR-29b	uterine leiomyoma (ULM)
+hsa-miR-29b	uterine leiomyoma (ULM)
+hsa-miR-29b-1	Alzheimer's disease
+hsa-miR-29b-2	chronic lymphocytic leukemia (CLL)
+hsa-miR-29b-2	breast cancer
+hsa-miR-29b-2	colorectal cancer
+hsa-miR-29b-2	lung cancer
+hsa-miR-29b-2	pancreatic cancer
+hsa-miR-29b-2	prostate cancer
+hsa-miR-29c	chronic lymphocytic leukemia (CLL)
+hsa-miR-204	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-205	breast cancer
+hsa-miR-205	bladder cancer
+hsa-miR-205	breast cancer
+hsa-miR-205	esophageal cancer
+hsa-miR-205	Head and neck cancer
+hsa-miR-205	lung cancer
+hsa-miR-205	pancreatic cancer
+hsa-miR-205	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-205	prostate cancer
+hsa-miR-206	breast cancer
+hsa-miR-155	polymyositis (PM)
+hsa-miR-15a	chronic lymphocytic leukemia (CLL)
+hsa-miR-15a	hepatocellular carcinoma (HCC)
+hsa-miR-15a	acute promyelocytic leukemia (APL)
+hsa-miR-15a	chronic lymphocytic leukemia (CLL)
+hsa-miR-15a	chronic lymphocytic leukemia (CLL)
+hsa-miR-15a	chronic lymphocytic leukemia (CLL)
+hsa-miR-15a	pituitary adenoma
+hsa-miR-15a	Alzheimer's disease
+hsa-miR-15a	autism spectrum disorder (ASD)
+hsa-miR-15a	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-99a	lupus nephritis
+hsa-miR-199a	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-199a	heart failure
+hsa-miR-199a	hepatocellular carcinoma (HCC)
+hsa-miR-199a	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-199a	malignant melanoma
+hsa-miR-199a	miyoshi myopathy (MM)
+hsa-miR-199a	nemaline myopathy (NM)
+hsa-miR-199a	ovarian cancer (OC)
+hsa-miR-199a	polymyositis (PM)
+hsa-miR-199a	prostate cancer
+hsa-miR-199a	uveal melanoma
+hsa-miR-199a*	cancer
+hsa-miR-199a*	cardiac hypertrophy	
+hsa-miR-199a*	dermatomyositis (DM)
+hsa-miR-199a*	Duchenne muscular dystrophy (DMD)
+hsa-miR-199a*	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-199a*	hepatocellular carcinoma (HCC)
+hsa-miR-199a*	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-199a*	miyoshi myopathy (MM)
+hsa-miR-199a*	nemaline myopathy (NM)
+hsa-miR-199a*	ovarian cancer (OC)
+hsa-miR-199a*	prostate cancer
+hsa-miR-199a-1	chronic pancreatitis
+hsa-miR-199a-1	lung cancer
+hsa-miR-133a	cardiac hypertrophy
+hsa-miR-223	pancreatic cancer
+hsa-miR-189	tourette's syndrome
+hsa-miR-18a	anaplastic thyroid carcinoma (ATC)
+hsa-miR-18a	lung cancer
+hsa-miR-18a	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-18b	cardiac hypertrophy
+hsa-miR-190	B-cell chronic lymphocytic leukemia
+hsa-miR-190	malignant melanoma
+hsa-miR-190	ovarian cancer (OC)
+hsa-miR-191	breast cancer
+hsa-miR-191	colorectal cancer
+hsa-miR-191	colorectal cancer
+hsa-miR-191	colorectal cancer
+hsa-miR-191	gastric cancer (stomach cancer)
+hsa-miR-191	glioblastoma
+hsa-miR-191	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-191	lung cancer
+hsa-miR-191	lung cancer
+hsa-miR-191	pancreatic cancer
+hsa-miR-191	prostate cancer
+hsa-miR-191	prostate cancer
+hsa-miR-192	B-cell chronic lymphocytic leukemia
+hsa-miR-192	lung cancer
+hsa-let-7a	nemaline myopathy (NM)
+hsa-let-7a	prostate cancer
+hsa-let-7a-1	colorectal cancer
+hsa-let-7a-1	hepatocellular carcinoma (HCC)
+hsa-let-7a-1	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7a-1	pituitary adenoma
+hsa-let-7a-2	lung cancer
+hsa-let-7a-2	hepatocellular carcinoma (HCC)
+hsa-let-7a-2	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7a-3	acute promyelocytic leukemia (APL)
+hsa-let-7a-3	epithelial ovarian cancer (EOC)
+hsa-let-7a-3	lung cancer
+hsa-let-7a-3	breast cancer
+hsa-let-7a-3	hepatocellular carcinoma (HCC)
+hsa-let-7a-3	Oral Squamous Cell Carcinoma (OSCC)
+hsa-let-7b	serous ovarian cancer
+hsa-let-7b	lung cancer
+hsa-let-7b	lung cancer
+hsa-let-7b	malignant melanoma
+hsa-let-7b	acute lymphoblastic leukemia (ALL)
+hsa-let-7b	acute myeloid leukemia (AML)
+hsa-let-7b	cardiac hypertrophy
+hsa-let-7b	cervical cancer
+hsa-miR-223	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-223	pituitary adenoma
+hsa-miR-223	primary biliary cirrhosis (PBC)
+hsa-miR-223	prostate cancer
+hsa-miR-224	hepatocellular carcinoma (HCC)
+hsa-miR-224	epithelial ovarian cancer (EOC)
+hsa-miR-224	hepatocellular carcinoma (HCC)
+hsa-miR-224	hepatocellular carcinoma (HCC)
+hsa-miR-224	lung cancer
+hsa-miR-224	malignant melanoma
+hsa-miR-224	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-224	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-224	prostate cancer
+hsa-miR-23a	hepatocellular carcinoma (HCC)
+hsa-miR-23a	acute lymphoblastic leukemia (ALL)
+hsa-miR-23a	acute myeloid leukemia (AML)
+hsa-miR-23a	autism spectrum disorder (ASD)
+hsa-miR-23a	bladder cancer
+hsa-miR-23a	cardiac hypertrophy
+hsa-miR-23a	glioblastoma
+hsa-miR-23a	heart failure.
+hsa-miR-23a	hepatocellular carcinoma (HCC)
+hsa-miR-34a	neuroblastoma (NB)
+hsa-miR-34a	neuroblastoma (NB)
+hsa-miR-34a	neuroblastoma (NB)
+hsa-miR-34a	non-small cell lung cancer (NSCLC)
+hsa-miR-34a	pancreatic cancer
+hsa-miR-34a	dermatomyositis (DM)
+hsa-miR-34a	Duchenne muscular dystrophy (DMD)
+hsa-miR-34a	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-34a	Inclusion body myositis (IBM)
+hsa-miR-34a	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-34a	miyoshi myopathy (MM)
+hsa-miR-34a	nemaline myopathy (NM)
+hsa-miR-34a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-34a	papillary thyroid carcinoma (PTC)
+hsa-miR-34a	polymyositis (PM)
+hsa-miR-34a	uterine leiomyoma (ULM)
+hsa-miR-34b	colorectal cancer
+hsa-miR-34b	non-small cell lung cancer (NSCLC)
+hsa-miR-34b	ovarian cancer (OC)
+hsa-miR-34b	malignant melanoma
+hsa-miR-34b	nasopharyngeal carcinoma (NPC)	
+hsa-miR-34b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-34b	stomach neoplasms
+hsa-miR-34c	non-small cell lung cancer (NSCLC)
+hsa-miR-34c	colorectal cancer
+hsa-miR-34c	stomach neoplasms
+hsa-miR-145	breast cancer	
+hsa-miR-145	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-145	colorectal cancer
+hsa-miR-145	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-145	epithelial ovarian cancer (EOC)
+hsa-miR-145	epithelial ovarian cancer (EOC)
+hsa-miR-145	hepatocellular carcinoma (HCC)
+hsa-miR-145	hepatocellular carcinoma (HCC)
+hsa-miR-145	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-145	prostate cancer
+hsa-miR-145	prostate cancer
+hsa-miR-145	serous ovarian cancer
+hsa-miR-145	testicular germ cell tumor
+hsa-miR-145	vascular disease
+hsa-miR-146a	chronic lymphocytic leukemia (CLL)
+hsa-miR-146a	breast cancer
+hsa-miR-146a	breast cancer
+hsa-miR-146a	papillary thyroid carcinoma (PTC)
+hsa-miR-146a	prostate cancer
+hsa-miR-146a	breast cancer
+hsa-miR-146a	cardiac hypertrophy
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-221	hepatocellular carcinoma (HCC)
+hsa-miR-221	Inclusion body myositis (IBM)
+hsa-miR-221	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-221	miyoshi myopathy (MM)
+hsa-miR-221	nemaline myopathy (NM)
+hsa-miR-221	neuroblastoma (NB)
+hsa-miR-221	ovarian cancer (OC)
+hsa-miR-221	pancreatic cancer
+hsa-miR-221	pancreatic cancer
+hsa-miR-221	pancreatic cancer
+hsa-miR-221	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-221	papillary thyroid carcinoma (PTC)
+hsa-miR-221	polymyositis (PM)
+hsa-miR-221	prostate cancer
+hsa-miR-222	glioblastoma
+hsa-miR-222	malignant melanoma
+hsa-miR-222	non-small cell lung cancer (NSCLC)
+hsa-miR-222	papillary thyroid carcinoma (PTC)
+hsa-miR-222	acute lymphoblastic leukemia (ALL)
+hsa-miR-222	acute myeloid leukemia (AML)
+hsa-miR-222	acute myeloid leukemia (AML)
+hsa-miR-222	cardiac hypertrophy
+hsa-miR-132	polymyositis (PM)
+hsa-miR-20a	hepatocellular carcinoma (HCC)
+hsa-miR-216	malignant melanoma
+hsa-miR-518b	ovarian cancer (OC)
+hsa-miR-99b	nemaline myopathy (NM)
+hsa-miR-181b-1	pancreatic cancer
+hsa-miR-199a-1	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-29c	lung cancer
+hsa-miR-106a	follicular lymphoma (FL)
+hsa-miR-106a	malignant melanoma
+hsa-miR-106a	neuroblastoma (NB)
+hsa-miR-106a	pancreatic cancer
+hsa-miR-106a	prostate cancer
+hsa-miR-106a	psoriasis
+hsa-miR-106a-1	hepatocellular carcinoma (HCC)
+hsa-miR-124a	colorectal cancer
+hsa-miR-124a	epithelial ovarian cancer (EOC)
+hsa-miR-124a	malignant melanoma
+hsa-miR-124a	teratocarcinoma
+hsa-miR-124a-1	lung cancer
+hsa-miR-124a-2	hepatocellular carcinoma (HCC)
+hsa-miR-124a-2	hepatocellular carcinoma (HCC)
+hsa-miR-124a-3	breast cancer
+hsa-miR-124a-3	breast cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	vascular disease
+hsa-miR-21	hepatocellular carcinoma (HCC)
+hsa-miR-29c	nasopharyngeal carcinoma (NPC)
+hsa-miR-29c	type 2 diabetes
+hsa-miR-29c	cardiac hypertrophy
+hsa-miR-29c	cardiac hypertrophy
+hsa-miR-29c	Duchenne muscular dystrophy (DMD)
+hsa-miR-29c	nemaline myopathy (NM)
+hsa-miR-29c	ovarian cancer (OC)
+hsa-miR-29c	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-29c	papillary thyroid carcinoma (PTC)
+hsa-miR-29c	schizophrenia
+hsa-miR-29c	uterine leiomyoma (ULM)
+hsa-miR-301	follicular lymphoma (FL)
+hsa-miR-301	hepatocellular carcinoma (HCC)
+hsa-miR-301	pancreatic cancer
+hsa-miR-302a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-302a	stomach neoplasms
+hsa-miR-302b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-302b	stomach neoplasms
+hsa-miR-20a	malignant lymphoma
+hsa-miR-20a	pancreatic cancer
+hsa-miR-20a	primary biliary cirrhosis (PBC)
+hsa-miR-20a	prostate cancer
+hsa-miR-20a	psoriasis
+hsa-miR-20a	serous ovarian cancer
+hsa-miR-20b	T-cell leukemia
+hsa-miR-20b	stomach neoplasms
+hsa-miR-20b	schizophrenia
+hsa-miR-21	stomach neoplasms
+hsa-miR-21	colorectal cancer
+hsa-miR-21	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-21	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-21	lung cancer
+hsa-miR-21	pancreatic cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	breast cancer
+hsa-miR-21	cardiac hypertrophy
+hsa-miR-21	cholangiocarcinoma
+hsa-miR-21	Cowden Syndrome
+hsa-miR-21	glioblastoma
+hsa-miR-21	hepatocellular carcinoma (HCC)
+hsa-miR-21	acute lymphoblastic leukemia (ALL)
+hsa-miR-216	nasopharyngeal carcinoma (NPC)
+hsa-miR-216	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-217	B-cell chronic lymphocytic leukemia
+hsa-miR-217	nasopharyngeal carcinoma (NPC)
+hsa-miR-217	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-218	cervical cancer
+hsa-miR-218	cardiac hypertrophy
+hsa-miR-218-2	lung cancer
+hsa-miR-218-2	stomach neoplasms
+hsa-miR-219	malignant melanoma
+hsa-miR-219-1	hepatocellular carcinoma (HCC)
+hsa-miR-219-1	hepatocellular carcinoma (HCC)
+hsa-miR-219-1	lung cancer
+hsa-miR-219-1	papillary thyroid carcinoma (PTC)
+hsa-miR-22	acute lymphoblastic leukemia (ALL)
+hsa-miR-22	acute myeloid leukemia (AML)
+hsa-miR-22	Alzheimer's disease
+hsa-miR-22	Duchenne muscular dystrophy (DMD)
+hsa-miR-22	head and neck squamous cell carcinoma(HNSCC)
+hsa-miR-22	stomach neoplasms
+hsa-miR-124a	Alzheimer's disease
+hsa-miR-16	chronic lymphocytic leukemia (CLL)
+hsa-miR-16	gastric cancer (stomach cancer)
+hsa-miR-16	prostate cancer
+hsa-miR-16	serous ovarian cancer
+hsa-miR-16-1	chronic lymphocytic leukemia (CLL)
+hsa-miR-199a-1	pancreatic cancer
+hsa-miR-199a-1	pancreatic cancer
+hsa-miR-199a-1	prostate cancer
+hsa-miR-199a-1	stomach neoplasms
+hsa-miR-199a-1-5p	hepatocellular carcinoma (HCC)
+hsa-miR-199a-2	chronic pancreatitis
+hsa-miR-199a-2	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-199a-2	pancreatic cancer
+hsa-miR-199a-2	stomach neoplasms
+hsa-miR-199a-2-5p	hepatocellular carcinoma (HCC)
+hsa-miR-199a-3p	serous ovarian cancer
+hsa-miR-199b	acute lymphoblastic leukemia (ALL)
+hsa-miR-199b	acute myeloid leukemia (AML)
+hsa-miR-199b	cardiac hypertrophy
+hsa-miR-199b	chronic pancreatitis
+hsa-miR-199b	dermatomyositis (DM)
+hsa-miR-199b	Duchenne muscular dystrophy (DMD)
+hsa-miR-199b	epithelial ovarian cancer (EOC)
+hsa-miR-199b	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-199b	hepatocellular carcinoma (HCC)
+hsa-miR-199b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-199b	lung cancer
+hsa-miR-199b	nemaline myopathy (NM)
+hsa-miR-199b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-199b	polymyositis (PM)
+hsa-miR-519a	ovarian cancer (OC)
+hsa-miR-519d	primary biliary cirrhosis (PBC)
+hsa-miR-520c	breast cancer
+hsa-miR-520c	stomach neoplasms
+hsa-miR-524*	ovarian cancer (OC)
+hsa-miR-524*	psoriasis
+hsa-miR-524*	stomach neoplasms
+hsa-miR-525*	ovarian cancer (OC)
+hsa-miR-539	autism spectrum disorder (ASD)
+hsa-miR-542-3p	ovarian cancer (OC)
+hsa-miR-542-3p	uterine leiomyoma (ULM)
+hsa-miR-542-5p	uterine leiomyoma (ULM)
+hsa-miR-550	autism spectrum disorder (ASD)
+hsa-miR-551a	ovarian cancer (OC)
+hsa-miR-563	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-565	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-572	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-572	ovarian cancer (OC)
+hsa-miR-582	uterine leiomyoma (ULM)
+hsa-miR-594	hepatocellular carcinoma (HCC)
+hsa-miR-594	ovarian cancer (OC)
+hsa-miR-598	autism spectrum disorder (ASD)
+hsa-miR-605	ovarian cancer (OC)
+hsa-miR-608	ovarian cancer (OC)
+hsa-miR-611	ovarian cancer (OC)
+hsa-miR-622	ovarian cancer (OC)
+hsa-miR-622	stomach neoplasms
+hsa-miR-627	ovarian cancer (OC)
+hsa-miR-99b	polymyositis (PM)
+hsa-miR-99b	prostate cancer
+hsa-miR-99b	psoriasis
+hsa-miR-106b	gastric cancer (stomach cancer)
+hsa-miR-106b	Alzheimer's disease
+hsa-miR-106b	autism spectrum disorder (ASD)
+hsa-miR-106b	ovarian cancer (OC)
+hsa-miR-106b	schizophrenia
+hsa-miR-106b-1	hepatocellular carcinoma (HCC)
+hsa-miR-107	esophageal cancer
+hsa-miR-107	Alzheimer's disease
+hsa-miR-107	cardiac hypertrophy
+hsa-miR-107	colorectal cancer
+hsa-miR-107	colorectal cancer
+hsa-miR-107	gastric cancer (stomach cancer)
+hsa-miR-107	malignant melanoma
+hsa-miR-107	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-107	pancreatic cancer
+hsa-miR-107	pancreatic cancer
+hsa-miR-107	pancreatic cancer
+hsa-miR-107	pancreatic cancer
+hsa-miR-107	stomach neoplasms
+hsa-miR-10a	cardiac hypertrophy
+hsa-miR-10a	colorectal cancer
+hsa-miR-181b-1	prostate cancer
+hsa-miR-181b-2	pancreatic cancer
+hsa-miR-181c	acute myeloid leukemia (AML)
+hsa-miR-181c	Alzheimer's disease
+hsa-miR-181c	glioblastoma
+hsa-miR-181c	hepatocellular carcinoma (HCC)
+hsa-miR-181c	lung cancer
+hsa-miR-181c	pancreatic cancer
+hsa-miR-181c	pancreatic cancer
+hsa-miR-181c	papillary thyroid carcinoma (PTC)
+hsa-miR-181d	autism spectrum disorder (ASD)
+hsa-miR-181d	Duchenne muscular dystrophy (DMD)
+hsa-miR-181d	nemaline myopathy (NM)
+hsa-miR-181d	pancreatic cancer
+hsa-miR-182	acute myeloid leukemia (AML)
+hsa-miR-182	epithelial ovarian cancer (EOC)
+hsa-miR-182	hepatocellular carcinoma (HCC)
+hsa-miR-182	malignant melanoma
+hsa-miR-182*	non-small cell lung cancer (NSCLC)
+hsa-miR-182*	hepatocellular carcinoma (HCC)
+hsa-miR-183	B-cell chronic lymphocytic leukemia
+hsa-miR-183	ovarian cancer (OC)
+hsa-miR-183	retinitis pigmentosa (RP)
+hsa-miR-23a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-23a	pancreatic cancer
+hsa-miR-23a	prostate cancer
+hsa-miR-23a	serous ovarian cancer
+hsa-miR-23b	chronic lymphocytic leukemia (CLL)
+hsa-miR-23b	acute lymphoblastic leukemia (ALL)
+hsa-miR-23b	acute myeloid leukemia (AML)
+hsa-miR-23b	bladder cancer
+hsa-miR-23b	cardiac hypertrophy
+hsa-miR-23b	cervical cancer
+hsa-miR-23b	glioblastoma
+hsa-miR-23b	hepatocellular carcinoma (HCC)
+hsa-miR-23b	malignant melanoma
+hsa-miR-23b	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-23b	pancreatic cancer
+hsa-miR-23b	prostate cancer
+hsa-miR-23b	serous ovarian cancer
+hsa-miR-23b	uterine leiomyoma (ULM)
+hsa-miR-24	vesicular stomatitis
+hsa-miR-24	acute lymphoblastic leukemia (ALL)
+hsa-miR-24	acute myeloid leukemia (AML)
+hsa-miR-24	cardiac hypertrophy
+hsa-miR-24	heart failure
+hsa-miR-24	hepatocellular carcinoma (HCC)
+hsa-miR-25	hepatocellular carcinoma (HCC)
+hsa-miR-34c	ovarian cancer (OC)
+hsa-miR-148b	asthma
+hsa-miR-372	colorectal cancer
+hsa-miR-34c	acute myeloid leukemia (AML)
+hsa-miR-34c	malignant melanoma
+hsa-miR-34c	nasopharyngeal carcinoma (NPC)
+hsa-miR-34c	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-34c	ovarian cancer (OC)
+hsa-miR-351	cardiac hypertrophy
+hsa-miR-352	vascular disease
+hsa-miR-361	Duchenne muscular dystrophy (DMD)
+hsa-miR-361	nemaline myopathy (NM)
+hsa-miR-361	ovarian cancer (OC)
+hsa-miR-361	primary biliary cirrhosis (PBC)
+hsa-miR-362	dermatomyositis (DM)
+hsa-miR-362	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-362	miyoshi myopathy (MM)
+hsa-miR-362	nemaline myopathy (NM)
+hsa-miR-362	polymyositis (PM)
+hsa-miR-363	Alzheimer's disease
+hsa-miR-363	stomach neoplasms
+hsa-miR-365	psoriasis
+hsa-miR-365	vascular disease
+hsa-miR-367	acute myeloid leukemia (AML)
+hsa-miR-367	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-367	testicular germ cell tumor
+hsa-miR-368	epithelial ovarian cancer (EOC)
+hsa-miR-368	dermatomyositis (DM)
+hsa-miR-148b	autism spectrum disorder (ASD)
+hsa-miR-148b	dermatomyositis (DM)
+hsa-miR-148b	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-148b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-148b	nemaline myopathy (NM)
+hsa-miR-148b	pancreatic cancer
+hsa-miR-148b	pancreatic ductal adenocarcinoma (PDAC)
+hsa-miR-149	breast cancer
+hsa-miR-149	cardiac hypertrophy
+hsa-miR-149	cardiac hypertrophy
+hsa-miR-149	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-149	follicular lymphoma (FL)
+hsa-miR-149	glioblastoma multiforme (GBM)
+hsa-miR-149	malignant melanoma
+hsa-miR-149	pituitary adenoma
+hsa-miR-149	glioma
+hsa-miR-149	stomach neoplasms
+hsa-miR-15	chronic lymphocytic leukemia (CLL)
+hsa-miR-150	cardiac hypertrophy	down-regulated
+hsa-miR-150	cardiac hypertrophy	down-regulated
+hsa-miR-150	chronic lymphocytic leukemia (CLL)
+hsa-miR-150	diffuse large B-cell lymphoma (DLBCL)
+hsa-miR-150	epithelial ovarian cancer (EOC)
+hsa-miR-150	hepatocellular carcinoma (HCC)
+hsa-miR-153	glioblastoma multiforme (GBM)
+hsa-miR-15a	malignant melanoma
+hsa-miR-15a-2	prostate cancer
+hsa-miR-15b	gastric cancer (stomach cancer)
+hsa-miR-15b	acute myeloid leukemia (AML)
+hsa-miR-15b	acute promyelocytic leukemia (APL)
+hsa-miR-15b	autism spectrum disorder (ASD)
+hsa-miR-15b	B-cell chronic lymphocytic leukemia
+hsa-miR-15b	cardiac hypertrophy
+hsa-miR-15b	colorectal cancer
+hsa-miR-15b	colorectal cancer
+hsa-miR-15b	non-small cell lung cancer (NSCLC)
+hsa-miR-15b	glioma
+hsa-let-7c	acute myeloid leukemia (AML)
+hsa-let-7c	cardiac hypertrophy
+hsa-let-7c	cervical cancer
+hsa-let-7c	Down syndrome (DS)
+hsa-let-7c	epithelial ovarian cancer (EOC)
+hsa-let-7c	hepatocellular carcinoma (HCC)
+hsa-let-7c	lung cancer
+hsa-let-7c	lung cancer
+hsa-let-7c	prostate cancer
+hsa-let-7c	prostate cancer
+hsa-let-7c	uterine leiomyoma (ULM)
+hsa-miR-133a	cardiac hypertrophy
+hsa-miR-133a	cardiomyopathy
+hsa-miR-186	head and neck squamous cell carcinoma (HNSCC)
+hsa-miR-222	dermatomyositis (DM)
+hsa-miR-106a	colorectal cancer
+hsa-miR-106a	stomach neoplasms
+hsa-miR-125b-2	hepatocellular carcinoma (HCC)
+hsa-miR-147	acute promyelocytic leukemia (APL)
+hsa-miR-195	prostate cancer
+hsa-miR-195	glioma
+hsa-miR-433	Parkinson's disease
+hsa-miR-518b	psoriasis
+hsa-miR-9*	follicular lymphoma (FL)
+hsa-miR-99a	pancreatic cancer
+hsa-miR-122a	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-130a	hepatocellular carcinoma (HCC)
+hsa-miR-143	lung cancer
+hsa-miR-199a*	uveal melanoma
+hsa-miR-200c	serous ovarian cancer
+hsa-miR-155	papillary thyroid carcinoma (PTC)
+hsa-let-7f	ovarian cancer (OC)
+hsa-let-7f	prostate cancer
+hsa-let-7f-1	breast cancer
+hsa-let-7f-1	colorectal cancer
+hsa-let-7f-1	lung cancer
+hsa-let-7f-1	pancreatic cancer
+hsa-let-7f-1	pituitary adenoma
+hsa-let-7f-1	stomach neoplasms
+hsa-let-7f-2	breast cancer
+hsa-let-7f-2	hepatocellular carcinoma (HCC)
+hsa-let-7f-2	stomach neoplasms
+hsa-let-7b	colorectal cancer
+hsa-let-7b	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-let-7b	hepatocellular carcinoma (HCC)
+hsa-let-7b	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-let-7b	miyoshi myopathy (MM)
+hsa-let-7b	nemaline myopathy (NM)
+hsa-let-7b	neuroblastoma (NB)
+hsa-let-7b	primary biliary cirrhosis (PBC)
+hsa-let-7b	prostate cancer
+hsa-let-7b	uveal melanoma
+hsa-let-7c	acute promyelocytic leukemia (APL)
+hsa-let-7c	lung cancer
+hsa-let-7c	ovarian cancer (OC)
+hsa-let-7c	prostate cancer
+hsa-let-7c	uterine leiomyoma (ULM)
+hsa-miR-132	dermatomyositis (DM)
+hsa-miR-132	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-132	glioblastoma multiforme (GBM)
+hsa-miR-132	hepatocellular carcinoma (HCC)
+hsa-miR-132	limb-girdle muscular dystrophies types 2A (LGMD2A)
+hsa-miR-132	miyoshi myopathy (MM)
+hsa-miR-132	nemaline myopathy (NM)
+hsa-miR-132	Oral Squamous Cell Carcinoma (OSCC)
+hsa-miR-132	pituitary adenoma
+hsa-miR-21	acute myeloid leukemia (AML)
+hsa-miR-21	autism spectrum disorder (ASD)
+hsa-miR-21	breast cancer
+hsa-miR-21	cardiac hypertrophy
+hsa-miR-21	cardiac hypertrophy
+hsa-miR-21	cervical cancer
+hsa-miR-21	chronic lymphocytic leukemia (CLL)
+hsa-miR-21	colorectal cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-21	colorectal cancer
+hsa-miR-21	dermatomyositis (DM)
+hsa-miR-21	Duchenne muscular dystrophy (DMD)
+hsa-miR-21	epithelial ovarian cancer (EOC)
+hsa-miR-21	esophageal cancer
+hsa-miR-21	facioscapulohumeral muscular dystrophy (FSHD)
+hsa-miR-21	gastric cancer (stomach cancer)
+hsa-miR-21	gastric cancer (stomach cancer)
+hsa-miR-21	glioblastoma
+hsa-miR-21	glioblastoma multiforme (GBM)
+hsa-miR-21	glioma
+hsa-miR-21	hepatocellular carcinoma (HCC)
+hsa-miR-21	Inclusion body myositis (IBM)
+hsa-miR-21	limb-girdle muscular dystrophies types 2A (LGMD2A)
