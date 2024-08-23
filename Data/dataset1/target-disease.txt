@@ -1,0 +1,576 @@
+ABCG2	breast cancer
+ABL1	acute lymphoblastic leukemia (ALL)
+ABL1	chronic myeloid leukemia (CML)
+ACVR1	follicular thyroid carcinoma (FTC)
+ADAM-10	hepatocellular carcinoma (HCC)
+AF4	acute promyelocytic leukemia (APL)
+AGTR1	acute lymphoblastic leukemia (ALL)
+AGTR1	diffuse large B-cell lymphoma (DLBCL)
+AGTR1	pancreatic cancer
+AGTR1	myeloproliferative disorder
+AGTR1	hepatocellular carcinoma (HCC)
+AGTR1	hypertension
+AGTR1	breast cancer
+AIB1	breast cancer
+AIB1	chronic myeloid leukemia (CML)
+AIB1	MYC-rearranged lymphoma
+AIB1	lung cancer
+AIB1	anaplastic thyroid carcinoma (ATC)
+AIB1	hepatocellular carcinoma (HCC)
+AIB1	neuroblastoma (NB)
+AIB1	pulmonary hypertension
+AMPK	metabolic disease	
+ANXA1	esophageal cancer
+API-5	hepatocellular carcinoma (HCC)
+APP	Alzheimer's disease
+ARID3B	ovarian cancer (OC)
+ATXN1	Spinocerebellar ataxia 1
+BACE1 	prostate cancer
+Bak1	prostate cancer
+BCL2	acute promyelocytic leukemia (APL)
+BCL2	vascular disease
+BCL2	chronic lymphocytic leukemia (CLL)
+BCL2	chronic myeloid leukemia (CML)
+BCL2	non-small cell lung cancer (NSCLC)
+BCL2	pancreatic cancer
+BCL2	gastric cancer (stomach cancer)
+BCL2	lung cancer
+BCL2	glioblastoma
+BCL2	Alzheimer's disease
+BCL2	neuroblastoma (NB)
+BCL2	hepatocellular carcinoma (HCC)
+BCL2	cholangiocarcinoma
+BCL2	prostate cancer
+BCL2L2	lung cancer
+BCL6	cancer	
+BCL6	bladder cancer
+BCL6	breast cancer
+BCL6	colorectal cancer
+BCL6	prostate cancer
+BCL6	hepatocellular carcinoma (HCC)
+Bcl-w	hepatocellular carcinoma (HCC)
+BCR-ABL1	acute lymphoblastic leukemia (ALL)
+BCR-ABL1	chronic myeloid leukemia (CML)
+beta-catenin	meningioma
+BIM	lymphoproliferative disease	
+BIM	multiple myeloma (MM)
+BIM	neuroblastoma (NB)
+BIM	hepatocellular carcinoma (HCC)
+BIRC1	glioblastoma multiforme (GBM)
+BIRC3	pancreatic cancer
+Blimp-1	Hodgkin's lymphoma
+Bmf	hepatocellular carcinoma (HCC)
+BMI1	breast cancer
+BMPR2	pulmonary hypertension
+BRCA1	breast cancer
+BRCA1	ovarian cancer (OC)
+BRCA2	breast cancer
+BRCA2	ovarian cancer (OC)
+BTG2	laryngeal carcinoma
+C/EBPa	lung cancer
+calmodulin	cardiac hypertrophy
+Casp9	cardiomyopathy
+caspase-3	hepatocellular carcinoma (HCC)
+caspase-3	squamous carcinoma
+CCND1	malignant melanoma
+CCND1	non-small cell lung cancer (NSCLC)
+CCND1	mantle cell lymphoma (MCL)
+CCND1	breast cancer
+CCND1	prostate cancer
+CCND1	hepatocellular carcinoma (HCC)\
+CCND1	stomach neoplasms
+CCND1	multiple myeloma (MM)
+CCND1	melanoma
+CCND2	non-small cell lung cancer (NSCLC)
+CCND2	hepatocellular carcinoma (HCC)
+CCNE1	non-small cell lung cancer (NSCLC)
+CCNE1	glioma
+CCNE2	hepatocellular carcinoma (HCC)
+CCNG1	hepatocellular carcinoma (HCC)
+CD44	breast cancer
+CD44	stomach neoplasms
+CD71	homozygous sickle cell disease (HbSS)
+CDC25A	lung cancer
+CDC25A	colorectal cancer
+CDC25A	Polycystic Kidney Disease
+CDC25A	Polycystic liver disease
+Cdc42	cardiac hypertrophy
+CDK1	prostate cancer
+CDK2	prostate cancer
+CDK6	lung cancer
+CDK6	cancer
+CDK6	breast cancer
+CDK6	chronic lymphocytic leukemia (CLL)
+CDK6	colorectal cancer
+CDK6	Oral Squamous Cell Carcinoma (OSCC)
+CDK6	glioblastoma multiforme (GBM)
+CDK6	medulloblastoma
+CDK6	acute lymphoblastic leukemia (ALL)
+CDK6	hepatocellular carcinoma (HCC)
+CDK6	glioblastoma
+CDK6	glioma
+CDK6	medulloblastoma
+Cdk9	cardiac hypertrophy
+CDKN1A	B-cell lymphoma
+CDKN1A	colorectal cancer
+CDKN1A	stomach neoplasms
+CDKN1B	glioblastoma
+CDKN1B	prostate cancer
+CDKN1B	malignant melanoma
+CDKN1B	hepatocellular carcinoma (HCC)
+CDKN1B	acute promyelocytic leukemia (APL)
+CDKN1C	hepatocellular carcinoma (HCC)
+CDX2	hepatocellular carcinoma (HCC)
+CFH	Alzheimer's disease
+c-KIT	malignant melanoma
+c-KIT	melanoma
+CLOCK	cholangiocarcinoma
+CLOCK	breast cancer	
+CLOCK	cancer
+CLOCK	colorectal cancer
+CLOCK	gastric cancer (stomach cancer)
+CLOCK	lung cancer
+c-Met	rhabdomyosarcoma
+c-Met	hepatocellular carcinoma (HCC)
+c-Met	melanoma
+c-Met	malignant melanoma
+c-Met	glioblastoma
+c-Met	glioma
+c-Met	medulloblastoma
+c-myb	chronic myeloid leukemia (CML)
+c-myc	colorectal cancer
+c-myc	Burkitt lymphoma
+COL15A1	nasopharyngeal carcinoma (NPC)
+COL1A1	nasopharyngeal carcinoma (NPC)
+COL1A2	nasopharyngeal carcinoma (NPC)
+COL3A1	nasopharyngeal carcinoma (NPC)
+COL4A1	nasopharyngeal carcinoma (NPC)
+COL4A2	nasopharyngeal carcinoma (NPC)
+CoREST	Huntington's disease (HD)
+CREB	acute myeloid leukemia (AML)
+CRK	non-small cell lung cancer (NSCLC)
+CSA	prostate cancer
+CTGF	hepatocellular carcinoma (HCC)
+CTGF	colorectal cancer
+Cxcl12	cardiac hypertrophy
+Cxcl12	hepatocellular carcinoma (HCC)
+Cxcl12	Acute Promyelocytic Leukemia (APL)
+DcR3	pancreatic cancer
+DCX	neuroblastoma
+DNMT3A	lung cancer
+DNMT3A	colorectal cancer
+DNMT3A	acute myeloid leukemia (AML)
+DNMT3B	lung cancer
+DNMT3B	acute myeloid leukemia (AML)
+E-cadherin	hepatocellular carcinoma (HCC)	
+E2F1	gastric cancer (stomach cancer)
+E2F1	Burkitt lymphoma
+E2F1	prostate cance
+E2F1	colorectal cancer
+E2F1	diffuse large B-cell lymphoma (DLBCL)
+E2F1	hepatocellular carcinoma (HCC)
+E2F1	chronic myeloid leukemia (CML)
+E2F1	MYC-rearranged lymphoma
+E2F1	breast cancer
+E2F1	lung cancer
+E2F1	anaplastic thyroid carcinoma (ATC)
+E2F1	neuroblastoma (NB)
+E2F1	medulloblastoma
+E2F1	pulmonary hypertension
+E2F	colorectal cancer
+E2F3	glioma
+E2F3	neuroblastoma (NB)
+E2F3	hepatocellular carcinoma (HCC)
+E2F3	non-small cell lung cancer (NSCLC)
+E2F3	pancreatic cancer
+E2F3	colorectal cancer
+E2F3	Alzheimer's disease
+E2F3	prostate cancer
+E2F3	melanoma
+E2F3	malignant melanoma
+E2F3	retinoblastoma
+E2F3	glioblastoma
+E2F3	medulloblastoma
+E2F3a	glioma
+E2F6	Oral Squamous Cell Carcinoma (OSCC)
+EFEMP2	follicular thyroid carcinoma (FTC)
+EGFR	lung cancer
+EGFR	glioblastoma
+EGFR	breast cancer
+EGFR	stomach neoplasms
+eIF-4A	colorectal cancer
+EIF4EBP1	prostate cancer
+ER-alpha	breast cancer
+ERBB2	breast cancer
+ERBB2	ovarian cancer (OC)
+ERBB2	medulloblastoma
+ERBB3	breast cancer
+ERBB3	ovarian cancer (OC)
+ERBB3	medulloblastoma
+ERBB3	stomach neoplasms
+ERBB2	stomach neoplasms
+ERG	cardiomyopathy
+ERK2	cancer
+ERK5	Burkitt lymphoma
+ERK5	chronic lymphocytic leukemia (CLL)
+ERK5	diffuse large B-cell lymphoma (DLBCL)
+ERK5	colorectal cancer
+ERK5	Obesity
+ERK5	colorectal cancer
+ERK5	T-cell leukemia
+EZH2	Burkitt lymphoma
+EZH2	prostate cancer
+EZH2	bladder cancer
+Ezrin	lung cancer
+FGFRL1	head and neck cancer
+FGF20	Parkinson's disease
+fibronectin	cardiac hypertrophy
+FNDC3B	hepatocellular carcinoma (HCC)
+FOS	Hepatocellular carcinoma (HCC)
+FOXO1	breast cancer
+FoxP1	hepatocellular carcinoma (HCC)
+FoxP1	lung cancer
+FUSIP1iso1	nasopharyngeal carcinoma (NPC)
+FUS1	lung cancer
+GAJ1	coronary artery disease
+GALNT1	bladder cancer
+Gata4	cardiac hypertrophy
+GATA6	hepatocellular carcinoma (HCC)
+Gli1	medulloblastoma
+GRN	frontotemporal dementia
+Hand2	cardiomyopathy
+Hand2	cardiac hypertrophy
+Hand2	coronary artery disease
+Hand2	heart failure
+Hand2	rhabdomyosarcoma
+Hand2	hepatocellular carcinoma (HCC)
+Hand2	lung cancer
+hAT1R	diffuse large B-cell lymphoma (DLBCL)
+HCN2	cardiac hypertrophy
+HCN4	cardiac hypertrophy
+HDAC-1	prostate cancer
+HDAC4	cardiac hypertrophy
+HDAC4	coronary artery disease
+HDAC4	cardiomyopathy
+HDAC4	heart failure
+HDAC4	rhabdomyosarcoma
+HDAC4	hepatocellular carcinoma (HCC)
+HDAC4	lung cancer
+HDAC4	colorectal cancer
+HDAC4	osteosarcoma
+HER3	breast cancer
+HES1	medulloblastoma
+HGS	glioma
+HLA-G	asthma
+HMGA	anaplastic thyroid carcinoma (ATC)
+HNRPK	glioblastoma	
+HOXA1	head and neck cancer
+HOXA1	chronic myeloid leukemia (CML)
+HOXA1	pancreatic cancer
+HOXA10	acute myeloid leukemia (AML)
+HOXA9	head and neck cancer
+HOXA9	acute promyelocytic leukemia (APL)
+Hsp20	cardiomyopathy
+HOXD10	breast cancer
+HSP60	cardiomyopathy
+HSP70	cardiomyopathy
+hTERT	anaplastic thyroid carcinoma (ATC)
+HTR3E	diarrhea predominant irritable bowel syndrome (IBS-D)
+HuR	breast cancer
+Igf1R	hepatocellular carcinoma (HCC)
+IGF-II	epithelial ovarian cancer (EOC)
+IGF-IR	colorectal cancer
+IKK-beta	epithelial ovarian cancer (EOC)
+integrin beta(3)	malignant melanoma
+JNK1	cervical cancer
+JAK2	Hodgkin's lymphoma
+IRAK1	breast cancer
+IRS-1	colorectal cancer
+IRS-1	breast cancer
+Irx5	cardiomyopathy
+Itch	chronic lymphocytic leukemia (CLL)
+Kcnd2	cardiomyopathy
+KCNJ2	coronary artery disease
+kip1	non-small cell lung cancer (NSCLC)
+kip1	glioblastoma
+kip1	prostate cancer
+kip1	malignant melanoma
+kip1	breast cancer
+kip1	melanoma
+KIT	papillary thyroid carcinoma (PTC)
+KIT	non-small cell lung cancer (NSCLC)
+KIT	malignant melanoma
+KIT	melanoma
+KIT	glioblastoma
+KIT	prostate cancer
+KIT	hepatocellular carcinoma (HCC)
+KIT	breast cancer
+KIT	gastric cancer (stomach cancer)
+KIT	glioblastoma multiforme (GBM)
+Klfd	thalassemia
+KLF5	vascular disease
+KRAS	non-small cell lung cancer (NSCLC)
+KRAS	colorectal cancer
+KRAS	squamous carcinoma
+KRAS	stomach neoplasms
+KRT5	esophageal cancer
+KRT7	bladder cancer
+L-protein	vesicular stomatitis
+LAMB3	cervical cancer
+LAMININ	nasopharyngeal carcinoma (NPC)
+LATS2	testicular germ cell tumor
+LATS2	esophageal cancer
+LATS2	non-small cell lung cancer (NSCLC)
+LATS2	breast cancer
+LRRFIP1	glioblastoma multiforme (GBM)
+MAP3K8	cholangiocarcinoma
+MARCKS	prostate cancer
+maspin	breast cancer
+Mcl-1	cholangiocarcinoma
+Mcl-1	lung cancer
+Mcl-1	glioblastoma
+Mcl-1	acute myelogeneous leukemia (AML)	
+Mcl-1	cholangiocarcinoma
+Mcl-1	Hepatocellular carcinoma (HCC)
+Mcl-1	gastric cancer (stomach cancer)
+Mef2a	cardiac hypertrophy
+Mef2c	neutrophilia
+MEIS1	acute myeloid leukemia (AML)
+MEK3	cervical cancer
+MET	rhabdomyosarcoma
+MET	cancer
+MET	hepatocellular carcinoma (HCC)
+MET	lung cancer
+MET	stomach neoplasms
+MIF	gastric cancer (stomach cancer)
+MIF	colorectal cancer
+MIP-2 	ulcerative colitis (UC)
+MLL	acute promyelocytic leukemia (APL)
+MLL-AF4	acute promyelocytic leukemia (APL)
+MMP1	tongue squamous cell carcinoma
+MMP16	glioma
+MOR1	neuroblastoma (NB)
+MTA1	breast cancer
+Mtpn	lung cancer
+Mtpn	malignant melanoma
+Mtpn	hepatocellular carcinoma (HCC)
+Mtpn	non-small cell lung cancer (NSCLC)
+MYC	Burkitt lymphoma
+MYC	stomach neoplasms
+MYCN	epithelial ovarian cancer (EOC)	
+MYCN	neuroblastoma (NB)
+MYCN	Hepatocellular carcinoma (HCC)
+MYCN	Spinocerebellar ataxia 1
+MYCN	prostate cancer
+MYCN	bladder cancer
+Mylip	T-cell leukemia
+Myt-1	breast cancer
+Nelf-A	cardiac hypertrophy
+NABP1	acute promyelocytic leukemia (APL)
+NABP1	neutrophilia
+NF2	cholangiocarcinoma
+NF2	adenoma
+NF2	hamartoma
+NF2	lipoma
+NF2	myoma
+NF2	sarcoma
+NF2	ovarian cancer (OC)
+NF2	lung cancer
+NF2	breast cancer
+NF2	lung cancer
+NF2	Burkitt lymphoma
+NF2	non-small cell lung cancer (NSCLC)
+NF2	gastric cancer (stomach cancer)
+NF2	laryngeal carcinoma
+NF2	Hodgkin's lymphoma
+NF2	malignant melanoma
+NF2	hepatocellular carcinoma (HCC)	
+NF2	squamous carcinoma
+NFI-A	chronic myeloid leukemia (CML)
+NF-kappaB	breast cancer
+NF-kappaB	ovarian cancer (OC)
+NF-kappaB1	ovarian cancer (OC)
+NIRF	lung cancer
+NLK	hepatocellular carcinoma (HCC)
+NOTCH1	hepatocellular carcinoma (HCC)
+NOTCH1	glioblastoma
+NOTCH1	glioma
+NOTCH1	medulloblastoma
+NOTCH2	medulloblastoma
+NOTCH2	glioblastoma
+NOTCH2	glioma
+ONECUT-2	metabolic disease
+P_protein	vesicular stomatitis
+p21	neuroblastoma (NB)
+p21	B-cell lymphoma
+p21	gastric cancer (stomach cancer)
+p21	colorectal cancer
+p250GAP	Huntington's disease (HD)
+p27	non-small cell lung cancer (NSCLC)
+p27	glioblastoma
+p27	prostate cancer
+p27	malignant melanoma
+p27	hepatocellular carcinoma (HCC)
+p27	breast cancer
+p27	melanoma
+p27	gastric cancer (stomach cancer)
+p27	melanoma
+p27	glioma
+p53	bladder cancer
+p57	hepatocellular carcinoma (HCC)
+p57	gastric cancer (stomach cancer)
+p63	skin disease
+p85beta	colorectal cancer
+Pak1	breast cancer
+PCAF	multiple myeloma (MM)
+PDCD4	pancreatic cancer
+PDCD4	breast cancer
+PDCD4	colorectal cancer
+PDCD4	cervical cancer
+PDCD4	glioblastoma
+PDCD4	esophageal cancer
+PDCD4	breast cancer
+PDEF	breast cancer
+PIM1	head and neck cancer
+Pitx3	Parkinson's disease
+PKM2	tongue squamous cell carcinoma
+PLAG1	chronic lymphocytic leukemia (CLL)
+PLAG1	anaplastic thyroid carcinoma (ATC)
+PLAG1	Burkitt lymphoma
+PLAG1	glioma
+PLAG1	hepatocellular carcinoma (HCC)
+Plk1	nasopharyngeal carcinoma (NPC)
+PLK2	acute myeloid leukemia (AML)
+PPAR-alpha	non-alcoholic fatty liver disease (NAFLD)
+PRDM1	Hodgkin's lymphoma
+prohibitin	gastric cancer (stomach cancer)
+prostein	prostate cancer
+PTEN	ovarian cancer (OC)
+PTEN	vascular disease
+PTEN	cholangiocarcinoma
+PTEN	lymphoproliferative disease
+PTEN	hepatocellular carcinoma (HCC)
+PTEN	Cowden Syndrome
+PTEN	cholesteatoma
+PTEN	glioma	
+PTEN	cardiac hypertrophy
+PTEN	lung cancer
+PTEN	pancreatic cancer
+PTEN	breast cancer
+PTEN	glioblastoma
+PTEN	anaplastic thyroid carcinoma (ATC)
+PTEN	colorectal cancer
+PTEN	Cowden Syndrome
+PTEN	glioblastoma multiforme (GBM)
+PTEN	cervical cancer
+PTEN	colorectal cancer
+PTEN	bladder cancer
+PTEN	multiple myeloma (MM)
+PTEN	Oral Squamous Cell Carcinoma (OSCC)
+PTEN	gastric cancer (stomach cancer)
+PTEN	head and neck squamous cell carcinoma (HNSCC)
+PTEN	medulloblastoma
+PTEN	esophageal cancer
+PTEN	tongue squamous cell carcinoma
+PTEN	laryngeal carcinoma
+PTEN	prostate cancer
+PTPN12	cholangiocarcinoma
+RANKL	hepatocellular carcinoma (HCC)
+RAB5B	asthma
+RARS	chronic lymphocytic leukemia (CLL)
+RAS	lung cancer
+RAS	breast cancer
+RAS	colorectal cancer
+RAS	acute promyelocytic leukemia (APL)
+RAS	prostate cancer
+RAS	non-small cell lung cancer (NSCLC)
+RAS	pituitary adenoma
+RasGAP	cardiac hypertrophy
+Rbp1-like	T-cell leukemia
+Rb	acute lymphoblastic leukemia (ALL)
+RECK	glioma
+RECK	gastric cancer (stomach cancer)
+REST	Huntington's disease (HD)
+Rheb	cardiac hypertrophy
+RhoA	cardiac hypertrophy
+RhoA	breast cancer
+RhoA	somach neoplasms
+RING1	cardiac hypertrophy
+ROCK1	prostate cancer
+RPS27A	Parkinson's disease
+RUNX3	malignant melanoma
+S100A9	esophageal cancer
+SHIP2	squamous carcinoma
+SIP1	breast cancer
+SIP1	colorectal cancer
+SIP1	ulcerative colitis (UC)
+SIRT1	prostate cancer
+SLITRK1	tourette's syndrome
+SNCA	Parkinson's disease
+SOCS-1	multiple myeloma (MM)
+SOCS-3	psoriasis
+SOD2	tongue squamous cell carcinoma
+SOX4	breast cancer
+SOX4	bladder cancer
+SPARC	nasopharyngeal carcinoma (NPC)
+SPRR2C	esophageal cancer
+Spry1	heart failure
+SRF	hepatocellular carcinoma (HCC)
+STMN1	hepatocellular carcinoma (HCC)
+TAp63	glioblastoma
+Tcl1	chronic lymphocytic leukemia (CLL)
+TDG	nasopharyngeal carcinoma (NPC)
+TfR-1	acute myeloid leukemia (AML)
+TGF-beta	glioblastoma
+THRAP1	cardiac hypertrophy
+TIMP3	glioma
+TIMP3	stomach neoplasms
+TP53I11	head and neck cancer
+TP53INP1	pancreatic cancer
+TP53INP1	T-cell leukemia
+TPM1	breast cancer
+TPM1	vascular disease
+TPM1	cardiac hypertrophy
+TPM1	cholangiocarcinoma
+TPM1	pancreatic cancer
+TPM1	hepatocellular carcinoma (HCC)
+TPM1	glioma
+TPM1	glioblastoma
+TPM1	colorectal cancer
+TPM1	Cowden Syndrome
+TPM1	glioblastoma multiforme (GBM)
+TPM1	lung cancer
+TPM1	cervical cancer
+TPM1	cholesteatoma
+TPM1	bladder cancer
+TPM1	gastric cancer (stomach cancer)
+TPM1	head and neck squamous cell carcinoma (HNSCC)
+TPM1	heart failure
+TPM1	esophageal cancer
+TPM1	prostate cancer
+TPM1	tongue squamous cell carcinoma
+TPM1	laryngeal carcinoma
+TRAF6	breast cancer
+TrkC	medulloblastoma
+Tsp1	colorectal cancer
+TSPAN3	follicular thyroid carcinoma (FTC)
+TUBB3	breast cancer
+TUBB3	endometrial cancer
+TUBB3	ovarian cancer (OC)
+uPA	breast cancer
+uPA	hepatocellular carcinoma (HCC)
+USF2	chronic myeloid leukemia (CML)
+vimentin	prostate cancer
+WHSC2	cardiac hypertrophy
+WNT3A	prostate cancer
+XBP1	Burkitt lymphoma
+YY1	rhabdomyosarcoma (RMS)
+ZBTB10	breast cancer
+ZEB1	breast cancer
+ZEB1	cancer
+ZEB1	ovarian cancer (OC)
+ZEB2	breast cancer
+ZEB2	cancer
+ZEB2	ovarian cancer (OC)
+ZFHX1B	hepatocellular carcinoma (HCC)
+ZO-1	alcoholic liver disease (ALD)
